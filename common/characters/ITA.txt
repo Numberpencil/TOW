@@ -1,0 +1,39 @@
+characters={
+#齐亚诺
+	ITA_Ciano={
+		name=ITA_Ciano
+		portraits={
+			army={
+				large="GFX_portrait_ITA_Ciano"
+				small=GFX_portrait_ITA_Ciano_small
+			}
+			civilian={
+				large="GFX_portrait_ITA_Ciano"
+				small=GFX_portrait_ITA_Ciano_small
+			}
+		}
+
+		country_leader={
+			ideology = fascism_ideology
+			desc = POLITICS_ITA_Ciano_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

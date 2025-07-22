@@ -1,0 +1,39 @@
+characters={
+#德王
+	MEN_Dewang={
+		name=MEN_Dewang
+		portraits={
+			army={
+				large="GFX_portrait_men_dewang"
+				small=GFX_portrait_men_dewang_small
+			}
+			civilian={
+				large="GFX_portrait_men_dewang"
+				small=GFX_portrait_men_dewang_small
+			}
+		}
+
+		country_leader={
+			ideology = fascism_ideology
+			desc = POLITICS_MEN_DEWANG_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

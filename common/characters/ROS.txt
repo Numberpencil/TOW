@@ -1,0 +1,39 @@
+characters={
+#凯乌韦·冯·哈塞尔
+	ROS_Kai-Uwe_von_Hassel={
+		name=ROS_Kai-Uwe_von_Hassel
+		portraits={
+			army={
+				large="GFX_portrait_ROS_Kai-Uwe_von_Hassel"
+				small=GFX_portrait_ROS_Kai-Uwe_von_Hassel_small
+			}
+			civilian={
+				large="GFX_portrait_ROS_Kai-Uwe_von_Hassel"
+				small=GFX_portrait_ROS_Kai-Uwe_von_Hassel_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_ROS_Kai-Uwe_von_Hassel_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

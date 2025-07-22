@@ -1,0 +1,39 @@
+characters={
+#阿道夫·豪辛格
+	SDI_Adoif_Heusinger={
+		name=SDI_Adoif_Heusinger
+		portraits={
+			army={
+				large="GFX_portrait_SDI_Adoif_Heusinger"
+				small=GFX_portrait_SDI_Adoif_Heusinger_small
+			}
+			civilian={
+				large="GFX_portrait_SDI_Adoif_Heusinger"
+				small=GFX_portrait_SDI_Adoif_Heusinger_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_SDI_Adoif_Heusinger_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

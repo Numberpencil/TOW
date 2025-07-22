@@ -1,0 +1,39 @@
+characters={
+#冯白驹
+	PRC_Feng_baiju={ 
+		name=PRC_Feng_baiju
+		portraits={
+			army={
+				large="GFX_portrait_prc_feng_baiju"
+				small=GFX_portrait_prc_feng_baiju_small
+			}
+			civilian={
+				large="GFX_portrait_prc_feng_baiju"
+				small=GFX_portrait_prc_feng_baiju_small
+			}
+		}
+
+		country_leader={
+			ideology=marxism
+			desc = POLITICS_PRC_FENG_BAIJU_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

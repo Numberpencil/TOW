@@ -1,0 +1,39 @@
+characters={
+#约瑟夫·特博文
+	RKG_Josef_Terboven={
+		name=RKG_Josef_Terboven
+		portraits={
+			army={
+				large="GFX_portrait_RKG_Josef_Terboven"
+				small=GFX_portrait_RKG_Josef_Terboven_small
+			}
+			civilian={
+				large="GFX_portrait_RKG_Josef_Terboven"
+				small=GFX_portrait_RKG_Josef_Terboven_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_RKG_Josef_Terboven_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

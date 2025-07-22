@@ -1,0 +1,39 @@
+characters={
+#维尔纳·贝斯特
+	DEN_Werner_Best={
+		name=DEN_Werner_Best
+		portraits={
+			army={
+				large="GFX_portrait_DEN_Werner_Best"
+				small=GFX_portrait_DEN_Werner_Best_small
+			}
+			civilian={
+				large="GFX_portrait_DEN_Werner_Best"
+				small=GFX_portrait_DEN_Werner_Best_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_DEN_Werner_Best_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

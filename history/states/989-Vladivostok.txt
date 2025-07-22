@@ -1,0 +1,39 @@
+
+state = {
+	id = 989
+	name = "STATE_989"
+	manpower = 84146
+	resources = {
+		chromium=20 # was: 28
+	}
+	
+	state_category = town
+
+	history={
+		owner = JAP
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		victory_points = {
+			957 15
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			air_base = 5
+			957 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+		add_core_of = SOV
+		add_core_of = FER
+		add_core_of = VLA
+	}
+
+	provinces = {
+		957
+	}
+
+	local_supplies = 0.0 
+}

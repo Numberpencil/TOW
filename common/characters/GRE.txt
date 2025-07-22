@@ -1,0 +1,39 @@
+characters={
+#Georgios_Themelis
+	GRE_Georgios_Themelis={
+		name=GRE_Georgios_Themelis
+		portraits={
+			army={
+				large="GFX_portrait_GRE_Georgios_Themelis"
+				small=GFX_portrait_GRE_Georgios_Themelis_small
+			}
+			civilian={
+				large="GFX_portrait_GRE_Georgios_Themelis"
+				small=GFX_portrait_GRE_Georgios_Themelis_small
+			}
+		}
+
+		country_leader={
+			ideology = despotism 
+			desc = POLITICS_GRE_Georgios_Themelis_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,45 @@
+﻿capital = 37
+
+oob = "DEN_1936"
+
+
+#### COUNTRY LEADERS ####
+recruit_character = DEN_Werner_Best
+
+
+set_research_slots = 3
+set_stability = 0.9
+set_war_support = 0.1
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_train = 1
+}
+
+
+set_convoys = 55
+
+
+add_equipment_to_stockpile = {
+	type = train_equipment_1
+	amount = 7
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1" #Was 1932.11.27 but changed to allow for Government Resigns focus to simulate this election.
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 11
+	fascism = 83
+	communism = 6
+}

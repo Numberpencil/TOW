@@ -1,0 +1,39 @@
+characters={
+#穆勒
+	RKA_Siegdried_Friedrich_Heirich_Müller={
+		name=RKA_Siegdried_Friedrich_Heirich_Müller
+		portraits={
+			army={
+				large="GFX_portrait_RKA_Siegdried_Friedrich_Heirich_Müller"
+				small=GFX_portrait_RKA_Siegdried_Friedrich_Heirich_Müller_small
+			}
+			civilian={
+				large="GFX_portrait_RKA_Siegdried_Friedrich_Heirich_Müller"
+				small=GFX_portrait_RKA_Siegdried_Friedrich_Heirich_Müller_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_RKA_Siegdried_Friedrich_Heirich_Müller_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

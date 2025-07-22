@@ -1,0 +1,39 @@
+characters={
+#约瑟夫·蒂索
+	SLO_Jozef_Tiso={
+		name=SLO_Jozef_Tiso
+		portraits={
+			army={
+				large="GFX_portrait_SLO_Jozef_Tiso"
+				small=GFX_portrait_SLO_Jozef_Tiso_small
+			}
+			civilian={
+				large="GFX_portrait_SLO_Jozef_Tiso"
+				small=GFX_portrait_SLO_Jozef_Tiso_small
+			}
+		}
+
+		country_leader={
+			ideology = fascism_ideology
+			desc = POLITICS_SLO_Jozef_Tiso_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

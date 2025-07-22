@@ -1,0 +1,182 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = GFX_portrait_prc_mao_zedong
+		texturefile = "gfx/interface/leaders/PRC/mao_65.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_men_dewang
+		texturefile = "gfx/interface/leaders/MEN/MEN_Dewang.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_sov_brezhnev
+		texturefile = "gfx/interface/leaders/SOV/Brezhnev.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_ger_hitler
+		texturefile = "gfx/interface/leaders/GER/hitler.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_prc_feng_baiju
+		texturefile = "gfx/interface/leaders/SCB/PRC_feng_baiju.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_shx_fu_zuoyi
+		texturefile = "gfx/interface/leaders/SHX/SHX_Fu_zuoyi.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_rku_erich_koch
+		texturefile = "gfx/interface/leaders/RKU/Erich_Koch.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_eng_colin_jordan
+		texturefile = "gfx/interface/leaders/ENG/Colin_Jordan.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_rdv_Tixier_Vignancour
+		texturefile = "gfx/interface/leaders/RDV/Tixier_Vignancour.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BUL_Kiril
+		texturefile = "gfx/interface/leaders/BUL/Kiril.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_SWI_Bundesrat
+		texturefile = "gfx/interface/leaders/SWI/Bundesrat.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_SER_Dimitrije_Ljotić
+		texturefile = "gfx/interface/leaders/SER/Dimitrije_Ljotić.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_IRE_Seán_Francis_Lemass
+		texturefile = "gfx/interface/leaders/IRE/Seán_Francis_Lemass.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_SLO_Jozef_Tiso
+		texturefile = "gfx/interface/leaders/SLO/Jozef_Tiso.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_GRE_Georgios_Themelis
+		texturefile = "gfx/interface/leaders/GRE/Georgios_Themelis.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_ITA_Ciano
+		texturefile = "gfx/interface/leaders/ITA/Ciano.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_USA_John_Kennedy
+		texturefile = "gfx/interface/leaders/USA/John_Kennedy.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_SDI_Adoif_Heusinger
+		texturefile = "gfx/interface/leaders/SDI/Adoif_Heusinger.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_MAD_Emil_Maurice
+		texturefile = "gfx/interface/leaders/MAD/Emil_Maurice.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKO_Alfred_Rosenberg
+		texturefile = "gfx/interface/leaders/RKO/Alfred_Rosenberg.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_HOL_Arthur_Seyss-Inquart
+		texturefile = "gfx/interface/leaders/HOL/Arthur_Seyss-Inquart.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_MVC_Franz_Halder
+		texturefile = "gfx/interface/leaders/MVC/Franz_Halder.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_GEN_Hans_Frank
+		texturefile = "gfx/interface/leaders/GEN/Hans_Frank.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKG_Josef_Terboven
+		texturefile = "gfx/interface/leaders/RKG/Josef_Terboven.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_ROS_Kai-Uwe_von_Hassel
+		texturefile = "gfx/interface/leaders/ROS/Kai-Uwe_von_Hassel.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_BEL_Léon_Degrelle
+		texturefile = "gfx/interface/leaders/BEL/Léon_Degrelle.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_SBM_Rudolf_Walter_Richard_Heß
+		texturefile = "gfx/interface/leaders/SBM/Rudolf_Walter_Richard_Heß.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKA_Siegdried_Friedrich_Heirich_Müller
+		texturefile = "gfx/interface/leaders/RKA/Siegdried_Friedrich_Heirich_Müller.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_DEN_Werner_Best
+		texturefile = "gfx/interface/leaders/DEN/Werner_Best.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RSA_Wolfgang_Schenck
+		texturefile = "gfx/interface/leaders/RSA/Wolfgang_Schenck.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_MOL_Comitetul
+		texturefile = "gfx/interface/leaders/MOL/Comitetul.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKO_Alfred_Rosenberg
+		texturefile = "gfx/interface/leaders/RKO/Alfred_Rosenberg.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKO_Alfred_Rosenberg
+		texturefile = "gfx/interface/leaders/RKO/Alfred_Rosenberg.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKO_Alfred_Rosenberg
+		texturefile = "gfx/interface/leaders/RKO/Alfred_Rosenberg.dds"
+	}
+
+	spriteType = {
+		name = GFX_portrait_RKO_Alfred_Rosenberg
+		texturefile = "gfx/interface/leaders/RKO/Alfred_Rosenberg.dds"
+	}
+	
+
+
+}

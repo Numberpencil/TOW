@@ -1,0 +1,39 @@
+characters={
+#科赫
+	RKU_Erich_Koch={ 
+		name=RKU_Erich_Koch
+		portraits={
+			army={
+				large="GFX_portrait_rku_erich_koch"
+				small=GFX_portrait_rku_erich_koch_small
+			}
+			civilian={
+				large="GFX_portrait_rku_erich_koch"
+				small=GFX_portrait_rku_erich_koch_small
+			}
+		}
+
+		country_leader={
+			ideology=nazism
+			desc = POLITICS_RKU_ERICH_KOCH_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

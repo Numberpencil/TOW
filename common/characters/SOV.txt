@@ -1,0 +1,39 @@
+characters={
+#勋宗
+	SOV_Brezhnev={ 
+		name=SOV_Brezhnev
+		portraits={
+			army={
+				large="GFX_portrait_sov_brezhnev"
+				small=GFX_portrait_sov_brezhnev_small
+			}
+			civilian={
+				large="GFX_portrait_sov_brezhnev"
+				small=GFX_portrait_sov_brezhnev_small
+			}
+		}
+
+		country_leader={
+			ideology= soviet_patriotism
+			desc = POLITICS_SOV_BREZHNEV_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

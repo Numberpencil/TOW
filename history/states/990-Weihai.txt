@@ -1,0 +1,34 @@
+state=
+{
+	id=990
+	name="STATE_990"
+	manpower = 3837320
+	state_category = town
+	
+	
+	history=
+	{
+		owner = JAP
+		add_core_of = CHI
+		add_core_of = PRC
+		add_claim_by = RNG
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+
+
+	}
+	provinces={
+		4205
+	}
+
+	local_supplies=4.0 
+}

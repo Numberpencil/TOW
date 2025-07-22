@@ -1,0 +1,39 @@
+characters={
+#委员会
+	MOL_Comitetul={
+		name=MOL_Comitetul
+		portraits={
+			army={
+				large="GFX_portrait_MOL_Comitetul"
+				small=GFX_portrait_MOL_Comitetul_small
+			}
+			civilian={
+				large="GFX_portrait_MOL_Comitetul"
+				small=GFX_portrait_MOL_Comitetul_small
+			}
+		}
+
+		country_leader={
+			ideology = fascism_ideology
+			desc = POLITICS_MOL_Comitetul_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

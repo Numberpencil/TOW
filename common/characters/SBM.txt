@@ -1,0 +1,39 @@
+characters={
+#鲁道夫赫斯
+	SBM_Rudolf_Walter_Richard_Heß={
+		name=SBM_Rudolf_Walter_Richard_Heß
+		portraits={
+			army={
+				large="GFX_portrait_SBM_Rudolf_Walter_Richard_Heß"
+				small=GFX_portrait_SBM_Rudolf_Walter_Richard_Heß_small
+			}
+			civilian={
+				large="GFX_portrait_SBM_Rudolf_Walter_Richard_Heß"
+				small=GFX_portrait_SBM_Rudolf_Walter_Richard_Heß_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_SBM_Rudolf_Walter_Richard_Heß_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,39 @@
+characters={
+#傅作义
+	SHX_Fu_zuoyi={ 
+		name=SHX_Fu_zuoyi
+		portraits={
+			army={
+				large="GFX_portrait_shx_fu_zuoyi_baiju"
+				small=GFX_portrait_shx_fu_zuoyi_small
+			}
+			civilian={
+				large="GFX_portrait_shx_fu_zuoyi"
+				small=GFX_portrait_shx_fu_zuoyi_small
+			}
+		}
+
+		country_leader={
+			ideology=absolutism_ideology
+			desc = POLITICS_SHX_FU_ZUOYI_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

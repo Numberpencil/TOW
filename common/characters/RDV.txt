@@ -1,0 +1,39 @@
+characters={
+#蒂克西埃·维尼扬古
+	RDV_Tixier_Vignancour={
+		name=RDV_Tixier_Vignancour
+		portraits={
+			army={
+				large="GFX_portrait_rdv_Tixier_Vignancour"
+				small=GFX_portrait_rdv_Tixier_Vignancour_small
+			}
+			civilian={
+				large="GFX_portrait_rdv_Tixier_Vignancour"
+				small=GFX_portrait_rdv_Tixier_Vignancour_small
+			}
+		}
+
+		country_leader={
+			ideology = fascism_ideology
+			desc = POLITICS_RDV_Tixier_Vignancour_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

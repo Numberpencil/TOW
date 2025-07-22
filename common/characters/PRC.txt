@@ -1,0 +1,122 @@
+characters={
+#毛
+	PRC_mao_zedong={
+		name=PRC_mao_zedong
+		portraits={
+			army={
+				large="GFX_portrait_prc_mao_zedong"
+				small=GFX_portrait_PRC_mao_zedong_small
+			}
+			civilian={
+				large="GFX_portrait_prc_mao_zedong"
+				small=GFX_portrait_PRC_mao_zedong_small
+			}
+		}
+		field_marshal={
+			traits={ trait_cautious politically_connected defensive_doctrine }
+			skill=4
+			attack_skill=2
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=-1
+		}
+		country_leader={
+			ideology=marxism
+			desc = POLITICS_PRC_MAO_ZEDONG_DESC
+			traits={ 
+				Mao_resurrection
+				Mao_Chairman
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+#周
+	PRC_zhou_enlai={
+		name=PRC_zhou_enlai
+		portraits={
+			army={
+				large="GFX_portrait_prc_zhou_enlai"
+				small=GFX_portrait_PRC_zhou_enlai_small
+			}
+			civilian={
+				large="GFX_portrait_prc_zhou_enlai"
+				small=GFX_portrait_PRC_zhou_enlai_small
+			}
+		}
+		advisor ={
+			slot = political_advisor
+			idea_token = PRC_zhou_enlai
+			desc = POLITICS_PRC_ZHOU_ENLAI_DESC
+			traits={ 
+				Zhou_prime_minister
+
+			}
+			cost = 0
+			can_be_fired = no
+		}
+	}
+#乔冠华
+	PRC_qiao_guanhua={
+		name=PRC_qiao_guanhua
+		portraits={
+			army={
+				large="GFX_portrait_prc_qiao_guanhua"
+				small=GFX_portrait_PRC_qiao_guanhua_small
+			}
+			civilian={
+				large="GFX_portrait_prc_qiao_guanhua"
+				small=GFX_portrait_PRC_qiao_guanhua_small
+			}
+		}
+		advisor ={
+			slot = political_advisor
+			idea_token = PRC_qiao_guanhua
+			desc = POLITICS_PRC_QIAO_GUANHUA_DESC
+			traits={ 
+				QIAO_Foreign_Minister
+
+			}
+			cost = 0
+			can_be_fired = no
+		}
+	}
+#彭德怀
+	PRC_peng_dehuai={
+		name=PRC_peng_dehuai
+		portraits={
+			army={
+				large="GFX_portrait_prc_peng_dehuai"
+				small=GFX_portrait_PRC_peng_dehuai_small
+			}
+			civilian={
+				large="GFX_portrait_prc_peng_dehuai"
+				small=GFX_portrait_PRC_peng_dehuai_small
+			}
+		}
+		advisor ={
+			slot = army_chief
+			idea_token = PRC_peng_dehuai
+			desc = POLITICS_PRC_PENG_DEHUAI_DESC
+			traits={ 
+				PENG_Military_Vice_Chairman
+
+			}
+			cost = 0
+			can_be_fired = no
+		}
+		field_marshal = {
+			legacy_id = PRC_peng_dehuai
+			traits = { 
+
+			}
+			skill = 5
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 5
+		}
+	}
+}

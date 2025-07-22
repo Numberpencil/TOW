@@ -1,0 +1,26 @@
+﻿capital = 615
+
+oob = "SHX_1936"
+
+set_stability = 0.7
+set_war_support = 0.4
+# Starting tech
+set_technology = {
+
+}
+
+recruit_character = SHX_Fu_zuoyi
+
+
+
+
+
+set_politics = {
+	ruling_party = absolutism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	absolutism = 100
+}

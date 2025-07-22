@@ -1,0 +1,98 @@
+﻿capital = 47
+
+oob = "GRE_1936"
+
+###################
+#### 3D MODELS ####
+###################
+
+#Cosmetic tags used (3D models will look for these cosmetic tags when hooking themselves):
+#GRE_communism
+#GRE_democratic
+#GRE_fascism
+#GRE_neutrality
+set_cosmetic_tag = GRE_neutrality
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_recon = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	trench_warfare = 1
+	fuel_silos = 1
+	synth_oil_experiments = 1
+}
+
+
+set_convoys = 10
+
+recruit_character = GRE_Georgios_Themelis
+
+
+	
+	set_technology = {
+		tech_support = 1		
+		tech_engineers2 = 1
+		tech_recon = 1
+		interwar_artillery = 1
+		interwar_antitank = 1
+		infantry_weapons1 = 1
+		infantry_weapons2 = 1
+		support_weapons = 1
+
+		#doctrines
+		air_superiority = 1
+		grand_battle_plan = 1
+		trench_warfare = 1
+		fleet_in_being = 1
+		battlefleet_concentration = 1
+		convoy_sailing = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		mechanical_computing = 1
+		computing_machine = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		synth_oil_experiments = 1
+		fuel_silos = 1
+		oil_processing = 1
+		improved_oil_processing = 1
+		construction1 = 1
+		construction2 = 1
+		construction3 = 1
+		dispersed_industry = 1
+		dispersed_industry2 = 1
+		dispersed_industry3 = 1
+	}
+	complete_special_project = {
+		project = sp:sp_air_radar
+	}
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.6.9"
+	election_frequency = 7
+	elections_allowed = yes # none after offset 1
+}
+set_popularities = {
+	democratic = 43
+	fascism = 2
+	communism = 17
+	neutrality = 38
+}
+
+set_stability = 0.72
+set_war_support = 0.23
+set_convoys = 80
+

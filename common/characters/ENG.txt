@@ -1,0 +1,39 @@
+characters={
+#科林·乔丹
+	ENG_Colin_Jordan={ 
+		name=ENG_Colin_Jordan
+		portraits={
+			army={
+				large="GFX_portrait_eng_colin_jordan"
+				small=GFX_portrait_eng_colin_jordan_small
+			}
+			civilian={
+				large="GFX_portrait_eng_colin_jordan"
+				small=GFX_portrait_eng_colin_jordan_small
+			}
+		}
+
+		country_leader={
+			ideology=British_Fascism
+			desc = POLITICS_ENG_COLIN_JORDAN_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

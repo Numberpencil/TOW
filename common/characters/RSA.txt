@@ -1,0 +1,39 @@
+characters={
+#沃尔夫冈·申克
+	RSA_Wolfgang_Schenck={
+		name=RSA_Wolfgang_Schenck
+		portraits={
+			army={
+				large="GFX_portrait_RSA_Wolfgang_Schenck"
+				small=GFX_portrait_RSA_Wolfgang_Schenck_small
+			}
+			civilian={
+				large="GFX_portrait_RSA_Wolfgang_Schenck"
+				small=GFX_portrait_RSA_Wolfgang_Schenck_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_RSA_Wolfgang_Schenck_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

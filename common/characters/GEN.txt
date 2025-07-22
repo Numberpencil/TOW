@@ -1,0 +1,39 @@
+characters={
+#汉斯·弗兰克
+	GEN_Hans_Frank={
+		name=GEN_Hans_Frank
+		portraits={
+			army={
+				large="GFX_portrait_GEN_Hans_Frank"
+				small=GFX_portrait_GEN_Hans_Frank_small
+			}
+			civilian={
+				large="GFX_portrait_GEN_Hans_Frank"
+				small=GFX_portrait_GEN_Hans_Frank_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_GEN_Hans_Frank_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

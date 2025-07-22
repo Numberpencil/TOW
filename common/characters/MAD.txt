@@ -1,0 +1,39 @@
+characters={
+#埃米尔·莫里斯
+	MAD_Emil_Maurice={
+		name=MAD_Emil_Maurice
+		portraits={
+			army={
+				large="GFX_portrait_MAD_Emil_Maurice"
+				small=GFX_portrait_MAD_Emil_Maurice_small
+			}
+			civilian={
+				large="GFX_portrait_MAD_Emil_Maurice"
+				small=GFX_portrait_MAD_Emil_Maurice_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_MAD_Emil_Maurice_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

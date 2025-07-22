@@ -1,0 +1,41 @@
+state = {
+	id = 983
+	name = "STATE_983"
+	manpower = 6550000
+	state_category = town
+	resources = {
+		tungsten = 11 # was: 14
+		steel = 8 # was: 10
+		chromium = 3 # was: 4
+	}
+
+	history = {
+
+		owner = SCB
+		add_core_of = SCB
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			10004 = { # Fangcheng
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+
+		victory_points = { 
+			7137 10 # Nanning
+		}
+
+
+	}
+
+	provinces = {
+		1018 4023 10004 10105 11926
+	}
+
+	local_supplies = 1.0 
+}

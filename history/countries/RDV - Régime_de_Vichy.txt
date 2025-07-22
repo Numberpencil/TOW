@@ -1,0 +1,29 @@
+﻿capital = 16
+
+set_stability = 0
+set_war_support = 0
+
+add_ideas = {
+
+}
+
+set_technology = {
+}
+
+recruit_character = RDV_Tixier_Vignancour
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 70
+	democratic = 10
+	communism = 0
+	neutrality = 20
+}
+
+

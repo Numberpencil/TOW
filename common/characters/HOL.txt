@@ -1,0 +1,39 @@
+characters={
+#塞斯·英夸特
+    HOL_Arthur_Seyss-Inquart={
+		name=HOL_Arthur_Seyss-Inquart
+		portraits={
+			army={
+				large="GFX_portrait_HOL_Arthur_Seyss-Inquart"
+				small=GFX_portrait_HOL_Arthur_Seyss-Inquart_small
+			}
+			civilian={
+				large="GFX_portrait_HOL_Arthur_Seyss-Inquart"
+				small=GFX_portrait_HOL_Arthur_Seyss-Inquart_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_HOL_Arthur_Seyss-Inquart_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

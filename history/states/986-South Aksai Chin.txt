@@ -1,0 +1,25 @@
+
+state={
+	id=986
+	name="STATE_986"
+	manpower = 523700
+	
+	state_category = rural
+
+	history={
+		owner = SIK
+		buildings = {
+			infrastructure = 1
+		}
+
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+	}
+
+	provinces={
+		5042 7273 10821 
+	}
+
+	local_supplies=0.0 
+}

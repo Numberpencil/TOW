@@ -1,0 +1,35 @@
+﻿capital = 64 # Berlin/Brandeburg
+
+set_stability = 90
+set_war_support = 40
+
+add_ideas = {
+
+}
+
+set_technology = {
+}
+
+recruit_character = GER_Hitler
+
+puppet = DEN
+puppet = RKG
+puppet = GEN
+puppet = ORD
+puppet = SLO
+puppet = RKU
+puppet = RKO
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 90
+	democratic = 1
+	communism = 1
+	neutrality = 8
+}

@@ -1,0 +1,39 @@
+characters={
+#阿尔弗雷德·罗森贝格
+	RKO_Alfred_Rosenberg={
+		name=RKO_Alfred_Rosenberg
+		portraits={
+			army={
+				large="GFX_portrait_RKO_Alfred_Rosenberg"
+				small=GFX_portrait_RKO_Alfred_Rosenberg_small
+			}
+			civilian={
+				large="GFX_portrait_RKO_Alfred_Rosenberg"
+				small=GFX_portrait_RKO_Alfred_Rosenberg_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_RKO_Alfred_Rosenberg_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

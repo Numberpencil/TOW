@@ -1,0 +1,39 @@
+characters={
+#肖恩·弗朗西斯·勒马斯
+	IRE_Seán_Francis_Lemass={
+		name=IRE_Seán_Francis_Lemass
+		portraits={
+			army={
+				large="GFX_portrait_IRE_Seán_Francis_Lemass"
+				small=GFX_portrait_IRE_Seán_Francis_Lemass_small
+			}
+			civilian={
+				large="GFX_portrait_IRE_Seán_Francis_Lemass"
+				small=GFX_portrait_IRE_Seán_Francis_Lemass_small
+			}
+		}
+
+		country_leader={
+			ideology = conservatism
+			desc = POLITICS_IRE_Seán_Francis_Lemass_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

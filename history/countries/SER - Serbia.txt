@@ -1,0 +1,37 @@
+﻿capital = 107
+
+oob = "YUG_1936"
+
+set_research_slots = 3
+
+add_ideas = {
+	anti_german_military
+}
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	fuel_silos = 1
+}
+
+
+recruit_character = SER_Dimitrije_Ljotić
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 36
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 20
+	fascism = 30
+	communism = 20
+	neutrality = 30
+}
+set_stability = 0.6
+

@@ -1,0 +1,27 @@
+﻿capital = 219
+
+set_stability = 50
+set_war_support = 70
+
+add_ideas = {
+
+}
+
+set_technology = {
+}
+
+recruit_character = SOV_Brezhnev
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 0
+	democratic = 5
+	socialism = 90
+	neutrality = 5
+}

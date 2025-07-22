@@ -1,0 +1,39 @@
+characters={
+#约翰肯尼迪（乐）
+	USA_John_Kennedy={
+		name=USA_John_Kennedy
+		portraits={
+			army={
+				large="GFX_portrait_USA_John_Kennedy"
+				small=GFX_portrait_USA_John_Kennedy_small
+			}
+			civilian={
+				large="GFX_portrait_USA_John_Kennedy"
+				small=GFX_portrait_USA_John_Kennedy_small
+			}
+		}
+
+		country_leader={
+			ideology = liberalism_ideology
+			desc = POLITICS_USA_John_Kennedy_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

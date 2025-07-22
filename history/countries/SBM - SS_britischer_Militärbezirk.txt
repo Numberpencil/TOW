@@ -1,0 +1,30 @@
+﻿capital = 35
+
+set_stability = 0
+set_war_support = 0
+
+add_ideas = {
+
+}
+
+set_technology = {
+}
+
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+recruit_character = SBM_Rudolf_Walter_Richard_Heß
+
+set_popularities = {
+	fascism = 90
+	democratic = 0
+	communism = 0
+	neutrality = 10
+}
+
+

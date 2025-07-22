@@ -1,0 +1,32 @@
+﻿capital = 361 # Washington DC
+
+oob = "USA_1936"
+
+starting_train_buffer = 5
+
+set_stability = 0
+set_war_support = 0
+
+add_ideas = {
+
+}
+
+set_technology = {
+}
+
+recruit_character = USA_John_Kennedy
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 10
+	democratic = 40
+	communism = 0
+	neutrality = 0
+	liberalism = 50
+}

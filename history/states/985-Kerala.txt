@@ -1,0 +1,29 @@
+
+state={
+	id=985
+	name="STATE_985" # kerala
+	manpower = 6348200
+	
+	state_category = rural
+	
+	resources={
+		chromium=10 # was: 20
+	}
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		1238 1321 7288 7391 7447 10130 10190 10274 12275 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,39 @@
+characters={
+#基里尔王子摄政
+	BUL_Kiril={
+		name=BUL_Kiril
+		portraits={
+			army={
+				large="GFX_portrait_BUL_Kiril"
+				small=GFX_portrait_BUL_Kiril_small
+			}
+			civilian={
+				large="GFX_portrait_BUL_Kiril"
+				small=GFX_portrait_BUL_Kiril_small
+			}
+		}
+
+		country_leader={
+			ideology = fascism_ideology
+			desc = POLITICS_BUL_Kiril_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

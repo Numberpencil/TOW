@@ -1,0 +1,39 @@
+characters={
+#洗头佬
+	GER_Hitler = {
+		name=GER_Hitler
+		portraits={
+			army={
+				large="GFX_portrait_ger_hitler"
+				small=GFX_portrait_ger_hitler_small
+			}
+			civilian={
+				large="GFX_portrait_ger_hitler"
+				small=GFX_portrait_ger_hitler_small
+			}
+		}
+
+		country_leader={
+			ideology=nazism
+			desc = POLITICS_GER_HITLER_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}

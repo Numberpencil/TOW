@@ -1,0 +1,39 @@
+
+state = {
+	id = 991
+	name = "STATE_991"
+	manpower = 289320
+	
+	state_category = town
+	
+	resources = {
+		rubber = 342 # was: 848
+		steel = 20 # was: 32
+		tungsten = 189 # was: 308
+		aluminium = 15 # was: 25
+	}
+
+	history = {
+
+		owner = MPA
+		add_core_of = MPA
+		add_core_of = MAL
+
+
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 6
+
+		}
+		
+	
+
+	provinces = {
+		1291 1364 4310 7342 12144 12215
+	}
+
+	local_supplies = 0.0 
+}

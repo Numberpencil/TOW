@@ -1,0 +1,39 @@
+characters={
+#弗朗茨·哈尔德
+	MVC_Franz_Halder={
+		name=MVC_Franz_Halder
+		portraits={
+			army={
+				large="GFX_portrait_MVC_Franz_Halder"
+				small=GFX_portrait_MVC_Franz_Halder_small
+			}
+			civilian={
+				large="GFX_portrait_MVC_Franz_Halder"
+				small=GFX_portrait_MVC_Franz_Halder_small
+			}
+		}
+
+		country_leader={
+			ideology = nazism
+			desc = POLITICS_MVC_Franz_Halder_DESC
+			traits={ 
+				
+
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}
