@@ -19,6 +19,7 @@ puppet = ORD
 puppet = SLO
 puppet = RKU
 puppet = RKO
+puppet = MAD
 
 set_politics = {
 	ruling_party = fascism

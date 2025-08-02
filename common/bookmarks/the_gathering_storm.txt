@@ -2,8 +2,8 @@ bookmarks = {
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
-		date = 1975.1.1.12
-		picture = "GFX_select_date_1975"
+		date = 1965.1.1.12
+		picture = "GFX_select_date_1965"
 		default_country = "GER"
 		default = yes
 		
