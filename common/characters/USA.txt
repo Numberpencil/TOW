@@ -14,7 +14,7 @@ characters={
 		}
 
 		country_leader={
-			ideology = liberalism_ideology
+			ideology = democratic_party_liberalism
 			desc = POLITICS_USA_John_Kennedy_DESC
 			traits={ 
 				
