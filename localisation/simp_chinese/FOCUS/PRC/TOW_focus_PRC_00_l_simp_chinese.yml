@@ -1,0 +1,106 @@
+l_simp_chinese: 
+ # 注意此为PRC_00国策本地化 请勿在此填写无关内容 
+ # 国策的ID为 TAG_FOCUSTREEID_PROJECT_ID 
+ 
+ 
+ 
+ # PRC 00
+ PRC_00_SN_01: ""
+ PRC_00_SN_01_desc: ""
+
+ PRC_00_SN_02_L: ""
+ PRC_00_SN_02_L_desc: ""
+
+ PRC_00_SN_03_L: ""
+ PRC_00_SN_03_L_desc: ""
+
+ PRC_00_SN_04_L: ""
+ PRC_00_SN_04_L_desc: ""
+
+ PRC_00_SN_05_L: ""
+ PRC_00_SN_05_L_desc: ""
+
+ PRC_00_SN_06_L: ""
+ PRC_00_SN_06_L_desc: ""
+
+ PRC_00_SN_02_C: ""
+ PRC_00_SN_02_C_desc: ""
+
+ PRC_00_SN_03_C: ""
+ PRC_00_SN_03_C_desc: ""
+
+ PRC_00_SN_04_C: ""
+ PRC_00_SN_04_C_desc: ""
+
+ PRC_00_SN_05_C: ""
+ PRC_00_SN_05_C_desc: ""
+
+ PRC_00_SN_06_C: ""
+ PRC_00_SN_06_C_desc: ""
+
+ PRC_00_SN_02_R: ""
+ PRC_00_SN_02_R_desc: ""
+
+ PRC_00_SN_03_R: ""
+ PRC_00_SN_03_R_desc: ""
+
+ PRC_00_SN_04_R: ""
+ PRC_00_SN_04_R_desc: ""
+
+ PRC_00_SN_05_R: ""
+ PRC_00_SN_05_R_desc: ""
+
+ PRC_00_SN_06_R: ""
+ PRC_00_SN_06_R_desc: ""
+
+ PRC_00_SN_07: ""
+ PRC_00_SN_07_desc: ""
+
+ PRC_00_SN_08: ""
+ PRC_00_SN_08_desc: ""
+
+ PRC_00_MD_01: ""
+ PRC_00_MD_01_desc: ""
+
+ PRC_00_MD_02_L: ""
+ PRC_00_MD_02_L_desc: ""
+
+ PRC_00_MD_03_L_L: ""
+ PRC_00_MD_03_L_L_desc: ""
+
+ PRC_00_MD_04_L_L: ""
+ PRC_00_MD_04_L_L_desc: ""
+
+ PRC_00_MD_05_L_L: ""
+ PRC_00_MD_05_L_L_desc: ""
+
+ PRC_00_MD_03_L_R: ""
+ PRC_00_MD_03_L_R_desc: ""
+
+ PRC_00_MD_04_L_R: ""
+ PRC_00_MD_04_L_R_desc: ""
+
+ PRC_00_MD_05_L_R: ""
+ PRC_00_MD_05_L_R_desc: ""
+
+ PRC_00_MD_02_R: ""
+ PRC_00_MD_02_R_desc: ""
+
+ PRC_00_MD_03_R: ""
+ PRC_00_MD_03_R_desc: ""
+
+ PRC_00_MD_04_R: ""
+ PRC_00_MD_04_R_desc: ""
+
+ PRC_00_MD_05_R: ""
+ PRC_00_MD_05_R_desc: ""
+
+ PRC_00_MD_06: ""
+ PRC_00_MD_06_desc: ""
+
+ PRC_00_MD_07: ""
+ PRC_00_MD_07_desc: ""
+
+ PRC_00_MD_08: ""
+ PRC_00_MD_08_desc: ""
+

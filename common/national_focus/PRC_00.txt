@@ -1,0 +1,275 @@
+#!gfx:interface\TOW\icons\goals\PRC\00_goals.gfx
+focus_tree = {
+	id = PRC_00
+	country = {
+		factor = 0
+		modifier = {
+			add = 114514
+			tag = PRC
+		}
+	}
+	default = no
+    shared_focus = PRC_00_SN_01
+	continuous_focus_position = { x=12 y=1800 }
+}
+	shared_focus = {
+		id = PRC_00_SN_01
+		icon = GFX_focus_goals_PRC_00_SN_01
+		cost = 2
+		x = 2 y = 2
+	}
+	shared_focus = {
+		id = PRC_00_SN_02_L
+		icon = GFX_focus_goals_PRC_00_SN_02_L
+		cost = 2
+		x = -2 y = 1
+		relative_position_id = PRC_00_SN_01
+		prerequisite = { focus = PRC_00_SN_01 }
+	}
+	shared_focus = {
+		id = PRC_00_SN_03_L
+		icon = GFX_focus_goals_PRC_00_SN_03_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_02_L
+		prerequisite = { focus = PRC_00_SN_02_L }
+	}
+	shared_focus = {
+		id = PRC_00_SN_04_L
+		icon = GFX_focus_goals_PRC_00_SN_04_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_03_L
+		prerequisite = { focus = PRC_00_SN_03_L }
+	}
+	shared_focus = {
+		id = PRC_00_SN_05_L
+		icon = GFX_focus_goals_PRC_00_SN_05_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_04_L
+		prerequisite = { focus = PRC_00_SN_04_L }
+	}
+	shared_focus = {
+		id = PRC_00_SN_06_L
+		icon = GFX_focus_goals_PRC_00_SN_06_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_05_L
+		prerequisite = { focus = PRC_00_SN_05_L }
+	}
+	shared_focus = {
+		id = PRC_00_SN_02_C
+		icon = GFX_focus_goals_PRC_00_SN_02_C
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_01
+		prerequisite = { focus = PRC_00_SN_01 }
+	}
+	shared_focus = {
+		id = PRC_00_SN_03_C
+		icon = GFX_focus_goals_PRC_00_SN_03_C
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_02_C
+		prerequisite = { focus = PRC_00_SN_02_C }
+	}
+	shared_focus = {
+		id = PRC_00_SN_04_C
+		icon = GFX_focus_goals_PRC_00_SN_04_C
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_03_C
+		prerequisite = { focus = PRC_00_SN_03_C }
+	}
+	shared_focus = {
+		id = PRC_00_SN_05_C
+		icon = GFX_focus_goals_PRC_00_SN_05_C
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_04_C
+		prerequisite = { focus = PRC_00_SN_04_C }
+	}
+    shared_focus = {
+		id = PRC_00_SN_06_C
+		icon = GFX_focus_goals_PRC_00_SN_06_C
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_05_C
+		prerequisite = { focus = PRC_00_SN_05_C }
+	}
+	shared_focus = {
+		id = PRC_00_SN_02_R
+		icon = GFX_focus_goals_PRC_00_SN_02_R
+		cost = 2
+		x = 2 y = 1
+		relative_position_id = PRC_00_SN_01
+		prerequisite = { focus = PRC_00_SN_01 }
+	}
+	shared_focus = {
+		id = PRC_00_SN_03_R
+		icon = GFX_focus_goals_PRC_00_SN_03_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_02_R
+		prerequisite = { focus = PRC_00_SN_02_R }
+	}
+	shared_focus = {
+		id = PRC_00_SN_04_R
+		icon = GFX_focus_goals_PRC_00_SN_04_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_03_R
+		prerequisite = { focus = PRC_00_SN_03_R }
+	}
+	shared_focus = {
+		id = PRC_00_SN_05_R
+		icon = GFX_focus_goals_PRC_00_SN_05_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_04_R
+		prerequisite = { focus = PRC_00_SN_04_R }
+	}
+    shared_focus = {
+		id = PRC_00_SN_06_R
+		icon = GFX_focus_goals_PRC_00_SN_06_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_05_R
+		prerequisite = { focus = PRC_00_SN_05_R }
+	}
+	shared_focus = {
+		id = PRC_00_SN_07
+		icon = GFX_focus_goals_PRC_00_SN_07
+		cost = 2
+		x = 0 y = 6
+		relative_position_id = PRC_00_SN_01
+		prerequisite = { focus = PRC_00_SN_06_L } prerequisite = { focus = PRC_00_SN_06_C } prerequisite = { focus = PRC_00_SN_06_R }
+	}
+	shared_focus = {
+		id = PRC_00_SN_08
+		icon = GFX_focus_goals_PRC_00_SN_08
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_SN_07
+		prerequisite = { focus = PRC_00_SN_07 }
+	}
+	shared_focus = {
+		id = PRC_00_MD_01
+		icon = GFX_focus_goals_PRC_00_MD_01
+		cost = 2
+		x = 6 y = 0
+		relative_position_id = PRC_00_SN_01
+	}
+	shared_focus = {
+		id = PRC_00_MD_02_L
+		icon = GFX_focus_goals_PRC_00_MD_02_L
+		cost = 2
+		x = -1 y = 1
+		relative_position_id = PRC_00_MD_01
+		prerequisite = { focus = PRC_00_MD_01 }
+	}
+	shared_focus = {
+		id = PRC_00_MD_03_L_L
+		icon = GFX_focus_goals_PRC_00_MD_03_L_L
+		cost = 2
+		x = -1 y = 1
+		relative_position_id = PRC_00_MD_02_L
+		prerequisite = { focus = PRC_00_MD_02_L }
+	}
+	shared_focus = {
+		id = PRC_00_MD_04_L_L
+		icon = GFX_focus_goals_PRC_00_MD_04_L_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_03_L_L
+		prerequisite = { focus = PRC_00_MD_03_L_L }
+	}
+	shared_focus = {
+		id = PRC_00_MD_05_L_L
+		icon = GFX_focus_goals_PRC_00_MD_05_L_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_04_L_L
+		prerequisite = { focus = PRC_00_MD_04_L_L }
+	}
+	shared_focus = {
+		id = PRC_00_MD_03_L_R
+		icon = GFX_focus_goals_PRC_00_MD_03_L_R
+		cost = 2
+		x = 1 y = 1
+		relative_position_id = PRC_00_MD_02_L
+		prerequisite = { focus = PRC_00_MD_02_L }
+	}
+	shared_focus = {
+		id = PRC_00_MD_04_L_R
+		icon = GFX_focus_goals_PRC_00_MD_04_L_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_03_L_R
+		prerequisite = { focus = PRC_00_MD_03_L_R }
+	}
+	shared_focus = {
+		id = PRC_00_MD_05_L_R
+		icon = GFX_focus_goals_PRC_00_MD_05_L_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_04_L_R
+		prerequisite = { focus = PRC_00_MD_04_L_R }
+	}
+	shared_focus = {
+		id = PRC_00_MD_02_R
+		icon = GFX_focus_goals_PRC_00_MD_02_R
+		cost = 2
+		x = 2 y = 1
+		relative_position_id = PRC_00_MD_01
+		prerequisite = { focus = PRC_00_MD_01 }
+	}
+	shared_focus = {
+		id = PRC_00_MD_03_R
+		icon = GFX_focus_goals_PRC_00_MD_03_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_02_R
+		prerequisite = { focus = PRC_00_MD_02_R }
+	}
+	shared_focus = {
+		id = PRC_00_MD_04_R
+		icon = GFX_focus_goals_PRC_00_MD_04_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_03_R
+		prerequisite = { focus = PRC_00_MD_03_R }
+	}
+	shared_focus = {
+		id = PRC_00_MD_05_R
+		icon = GFX_focus_goals_PRC_00_MD_05_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_04_R
+		prerequisite = { focus = PRC_00_MD_04_R }
+	}
+	shared_focus = {
+		id = PRC_00_MD_06
+		icon = GFX_focus_goals_PRC_00_MD_06
+		cost = 2
+		x = 0 y = 5
+		relative_position_id = PRC_00_MD_01
+		prerequisite = { focus = PRC_00_MD_05_L_L } prerequisite = { focus = PRC_00_MD_05_L_R } prerequisite = { focus = PRC_00_MD_05_R }
+	}
+	shared_focus = {
+		id = PRC_00_MD_07
+		icon = GFX_focus_goals_PRC_00_MD_07
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_06
+		prerequisite = { focus = PRC_00_MD_06 }
+	}
+	shared_focus = {
+		id = PRC_00_MD_08
+		icon = GFX_focus_goals_PRC_00_MD_08
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = PRC_00_MD_07
+		prerequisite = { focus = PRC_00_MD_07 }
+	}

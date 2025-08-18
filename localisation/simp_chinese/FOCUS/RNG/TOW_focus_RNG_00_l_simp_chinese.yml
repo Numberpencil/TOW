@@ -1,0 +1,37 @@
+l_simp_chinese: 
+ # 注意此为RNG_00国策本地化 请勿在此填写无关内容 
+ # 国策的ID为 TAG_FOCUSTREEID_PROJECT_ID 
+ 
+ 
+ 
+ # RNG 00
+ RNG_00_SN_01: "1965年政府报告"
+ RNG_00_SN_01_desc: ""
+
+ RNG_00_SN_02_L: "在曲线救国的理想中"
+ RNG_00_SN_02_L_desc: ""
+
+ RNG_00_SN_03_L: "示好日本"
+ RNG_00_SN_03_L_desc: ""
+
+ RNG_00_SN_04_L: "邀请投资"
+ RNG_00_SN_04_L_desc: ""
+
+ RNG_00_SN_02_R: "在泛亚共荣的承诺中"
+ RNG_00_SN_02_R_desc: ""
+
+ RNG_00_SN_03_R: "忍辱负重"
+ RNG_00_SN_03_R_desc: ""
+
+ RNG_00_SN_04_R: "以暴制暴"
+ RNG_00_SN_04_R_desc: ""
+
+ RNG_00_SN_05: "加强警备"
+ RNG_00_SN_05_desc: ""
+
+ RNG_00_SN_06: "不速之客"
+ RNG_00_SN_06_desc: ""
+
+ RNG_00_SN_07: "宣布戒严"
+ RNG_00_SN_07_desc: ""
+

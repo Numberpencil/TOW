@@ -1,0 +1,43 @@
+spriteTypes = {
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_01"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_01.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_02_L"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_02_L.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_03_L"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_03_L.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_04_L"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_04_L.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_02_R"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_02_R.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_03_R"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_03_R.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_04_R"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_04_R.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_05"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_05.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_06"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_06.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_goals_RNG_00_SN_07"
+        texturefile = "gfx/icons/goals/RNG/RNG_00_SN_07.png"
+    }
+}
+

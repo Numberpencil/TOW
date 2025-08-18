@@ -1,0 +1,92 @@
+#!gfx:interface\TOW\icons\goals\RNG\00_goals.gfx
+focus_tree = {
+	id = RNG_00
+	country = {
+		factor = 0
+		modifier = {
+			add = 114514
+			tag = RNG
+		}
+	}
+	default = no
+    shared_focus = RNG_00_SN_01
+	continuous_focus_position = { x=12 y=1800 }
+}
+	shared_focus = {
+		id = RNG_00_SN_01
+		icon = GFX_focus_goals_RNG_00_SN_01
+		cost = 2
+		x = 2 y = 2
+	}
+	shared_focus = {
+		id = RNG_00_SN_02_L
+		icon = GFX_focus_goals_RNG_00_SN_02_L
+		cost = 2
+		x = -1 y = 1
+		relative_position_id = RNG_00_SN_01
+		prerequisite = { focus = RNG_00_SN_01 }
+	}
+	shared_focus = {
+		id = RNG_00_SN_03_L
+		icon = GFX_focus_goals_RNG_00_SN_03_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = RNG_00_SN_02_L
+		prerequisite = { focus = RNG_00_SN_02_L }
+	}
+	shared_focus = {
+		id = RNG_00_SN_04_L
+		icon = GFX_focus_goals_RNG_00_SN_04_L
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = RNG_00_SN_03_L
+		prerequisite = { focus = RNG_00_SN_03_L }
+	}
+	shared_focus = {
+		id = RNG_00_SN_02_R
+		icon = GFX_focus_goals_RNG_00_SN_02_R
+		cost = 2
+		x = 1 y = 1
+		relative_position_id = RNG_00_SN_01
+		prerequisite = { focus = RNG_00_SN_01 }
+	}
+	shared_focus = {
+		id = RNG_00_SN_03_R
+		icon = GFX_focus_goals_RNG_00_SN_03_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = RNG_00_SN_02_R
+		prerequisite = { focus = RNG_00_SN_02_R }
+	}
+	shared_focus = {
+		id = RNG_00_SN_04_R
+		icon = GFX_focus_goals_RNG_00_SN_04_R
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = RNG_00_SN_03_R
+		prerequisite = { focus = RNG_00_SN_03_R }
+	}
+	shared_focus = {
+		id = RNG_00_SN_05
+		icon = GFX_focus_goals_RNG_00_SN_05
+		cost = 2
+		x = 0 y = 4
+		relative_position_id = RNG_00_SN_01
+		prerequisite = { focus = RNG_00_SN_04_L } prerequisite = { focus = RNG_00_SN_04_R }
+	}
+    shared_focus = {
+		id = RNG_00_SN_06
+		icon = GFX_focus_goals_RNG_00_SN_06
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = RNG_00_SN_05
+		prerequisite = { focus = RNG_00_SN_05 }
+	}
+	shared_focus = {
+		id = RNG_00_SN_07
+		icon = GFX_focus_goals_RNG_00_SN_07
+		cost = 2
+		x = 0 y = 1
+		relative_position_id = RNG_00_SN_06
+		prerequisite = { focus = RNG_00_SN_06 }
+	}
