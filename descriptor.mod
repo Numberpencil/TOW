@@ -4,4 +4,4 @@ tags={
 }
 name="TOW"
 replace_path="history/countries"
-supported_version="1.15.2"
+supported_version="1.16.9"

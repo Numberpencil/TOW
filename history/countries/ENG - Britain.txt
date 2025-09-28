@@ -15,17 +15,19 @@ set_technology = {
 recruit_character = ENG_Colin_Jordan
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = national_socialism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 90
-	democratic = 0
-	communism = 0
-	neutrality = 10
+	national_socialism = 70
+	liberal_democracy = 5
+	liberation_front =5
+	authoritarianism = 5
+	extreme_militarism = 10
+	paternalism = 5
 }
 
 

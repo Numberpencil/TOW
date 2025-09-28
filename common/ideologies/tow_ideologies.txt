@@ -350,7 +350,7 @@ ideologies = {
 			can_be_randomly_selected = no
 			}
 		}
-		color = { 110 45 35 }
+		color = { 0 0 0 }
 		can_be_boosted = no
 	}
 

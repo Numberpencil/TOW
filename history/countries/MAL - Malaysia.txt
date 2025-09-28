@@ -36,11 +36,16 @@ complete_special_project = {
 
 set_convoys = 25
 
+set_politics = {
+	ruling_party = fascism
+	last_election = "1935.5.1"
+	election_frequency = 48
+	elections_allowed = no
+}
 
 set_popularities = {
-	democratic = 33
-	communism = 33
-	neutrality = 34
+	fascism = 80
+	extreme_militarism = 20
 }
 
 

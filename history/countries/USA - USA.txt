@@ -24,9 +24,8 @@ set_politics = {
 }
 
 set_popularities = {
-	fascism = 10
-	#democratic = 40
-	communism = 0
-	neutrality = 0
-	liberal_democracy = 90
+	liberal_democracy = 35
+	progressivism =25
+	conservatism = 20
+	paternalism = 20
 }
