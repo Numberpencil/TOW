@@ -6,12 +6,7 @@ state={
 	history={
 		owner = RKO
 		add_core_of = RKO
-		victory_points = {
-			622 3 #Jelgava
-		}
-		victory_points = {
-			325 1 #Jekabpils
-		}
+		
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
