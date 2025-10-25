@@ -10,6 +10,7 @@ bitmapfonts = {
 		}
 	languages = { "l_simp_chinese" } 
 	}
+	
 		
 	bitmapfont_override = {
 		name = "AnimatedMapText"
@@ -252,7 +253,6 @@ bitmapfonts = {
 		}
 	languages = { "l_simp_chinese" } 
 	}
-	
 	bitmapfont_override = {
 		name = "hoi4_typewriter22"
 		fontfiles = { 
@@ -441,5 +441,4 @@ bitmapfonts = {
 		}
 	languages = { "l_simp_chinese" } 
 	}
-	
 	}
