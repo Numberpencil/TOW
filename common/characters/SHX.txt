@@ -14,7 +14,7 @@ characters={
 		}
 
 		country_leader={
-			ideology=absolutism_ideology
+			ideology=warlordism
 			desc = POLITICS_SHX_FU_ZUOYI_DESC
 			traits={ 
 				

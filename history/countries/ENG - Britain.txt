@@ -26,7 +26,7 @@ set_popularities = {
 	liberal_democracy = 5
 	liberation_front =5
 	authoritarianism = 5
-	extreme_militarism = 10
+	racial_cleanliness = 10
 	paternalism = 5
 }
 

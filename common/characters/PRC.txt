@@ -22,7 +22,7 @@ characters={
 			legacy_id=-1
 		}
 		country_leader={
-			ideology=marxism
+			ideology=maoism
 			desc = POLITICS_PRC_MAO_ZEDONG_DESC
 			traits={ 
 				Mao_resurrection
