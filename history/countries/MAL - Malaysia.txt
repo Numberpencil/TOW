@@ -45,7 +45,7 @@ set_politics = {
 
 set_popularities = {
 	fascism = 80
-	extreme_militarism = 20
+	racial_cleanliness = 20
 }
 
 

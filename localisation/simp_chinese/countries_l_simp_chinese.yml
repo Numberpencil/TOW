@@ -68,6 +68,7 @@
  RKA_GER_fascism_autonomy_puppet_DEF: "利奥波德维尔专员辖区"
  RKA_GER_fascism_autonomy_puppet_ADJ: "利奥波德维尔专员辖区"
 
+ PRC: "中华苏维埃共和国"
  PRC_communist: "中华苏维埃共和国"
  PRC_communist_DEF: "中华苏维埃共和国"
  PRC_communist_ADJ: "中华苏维埃共和国"
@@ -76,9 +77,9 @@
  CHI_neutrality_DEF: "重庆国民政府"
  CHI_neutrality_ADJ: "重庆国民政府"
 
- SCB_communism: "中共中央南方局"
- SCB_communism_DEF: "中共中央南方局"
- SCB_communism_ADJ: "中共中央南方局"
+ SCB_communist: "中共中央南方局"
+ SCB_communist_DEF: "中共中央南方局"
+ SCB_communist_ADJ: "中共中央南方局"
 
  GAO_fascism: "广东行政公署"
  GAO_fascism_DEF: "广东行政公署"

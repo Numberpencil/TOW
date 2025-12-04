@@ -177,6 +177,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/leaders/RKO/Alfred_Rosenberg.dds"
 	}
 	
+	spriteType = {
+		name = GFX_portrait_CHI_jiang_jieshi
+		texturefile = "gfx/interface/leaders/CHI/CHI_jiang_jieshi.dds"
+	}
 
 
 }

@@ -1,30 +1,20 @@
 ideologies = {
 
-	communist = { #共产主义
+	communist = { #马列主义
 		types = {
-			Bukharinism = {
+			marxism_leninism = {  #马克思列宁主义
 				can_be_randomly_selected = no
 			}
-			developed_socialism = {
+			maoism = {  #毛泽东思想
+				can_be_randomly_selected = no 
+			}
+			national_liberation_communism = {  #民族解放共产主义
 				can_be_randomly_selected = no
 			}
-			marxism_leninism = {
+			yezhovism = {  #叶若夫思想
 				can_be_randomly_selected = no
 			}
-
-			maoism = {
-				can_be_randomly_selected = no
-			}
-
-			military_sovietism = {
-				can_be_randomly_selected = no
-			}
-
-			national_communism = {
-				can_be_randomly_selected = no
-			}
-
-			juche_ideology = {
+			cheka_principles = {  #契卡原则
 				can_be_randomly_selected = no
 			}
 		}
@@ -34,47 +24,58 @@ ideologies = {
 
 	socialism = {#社会主义
 		types = {
-			islamic_socialism = {
+			juche_ideology = {  #主体思想
 				can_be_randomly_selected = no
 			}
-
-			guerrilla_socialism = {
+			military_sovietism = {  #军事苏维埃
 				can_be_randomly_selected = no
 			}
-
-			soviet_patriotism = {
+			developed_socialism = {  #发达社会主义
 				can_be_randomly_selected = no
 			}
-
-			yezhovism = {
+			islamic_socialism = {  #伊斯兰社会主义
 				can_be_randomly_selected = no
 			}
-
-			Pan_Africanism = {
+			Bukharinism = {  #布哈林主义
 				can_be_randomly_selected = no
 			}
-
-			liberation_front = {
+			guerrilla_socialism = {  #游击社会主义
 				can_be_randomly_selected = no
 			}
-
-			revivalism = {
+			soviet_patriotism = {  #苏维埃爱国主义
 				can_be_randomly_selected = no
 			}
-
-			titoism = {
+			Pan_Africanism = {  #泛非主义
 				can_be_randomly_selected = no
 			}
-
-			euro_communism = {
+			revivalism = {  #复兴主义
 				can_be_randomly_selected = no
 			}
-
-			democratic_socialism = {
+			titoism = {  #铁托主义
 				can_be_randomly_selected = no
 			}
-
-			left_nationalism = {
+			euro_communism = {   #欧洲共产主义
+				can_be_randomly_selected = no
+			}
+			left_nationalism = {  #左翼民族主义
+				can_be_randomly_selected = no
+			}
+			revolutionary_parliament = {  #革命议会
+				can_be_randomly_selected = no
+			}
+			red_militarism = {  #红色军国
+				can_be_randomly_selected = no
+			}
+			revisionism = {  #修正马列主义
+				can_be_randomly_selected = no
+			}
+			market_socialism = {  #市场社会主义
+				can_be_randomly_selected = no
+			}
+			democratic_socialism = {  #民主社会主义
+				can_be_randomly_selected = no
+			}
+			arab_socialism = {  #阿拉伯社会主义
 				can_be_randomly_selected = no
 			}
 		}
@@ -82,42 +83,25 @@ ideologies = {
 		can_be_boosted = no
 	}
 
-	progressivism = { #进步主义
+	progressivism = { #改良资本主义
 		types = {
-			left_kemalism = {
-			can_be_randomly_selected = no
+			left_kemalism = {  #左翼凯末尔主义
+				can_be_randomly_selected = no
 			}
-
-			left_populism = {
-			can_be_randomly_selected = no
+			left_populism = {  #左翼民粹主义
+				can_be_randomly_selected = no
 			}
-
-			social_democracy = {
-			can_be_randomly_selected = no
+			social_democracy = {  #社会民主主义
+				can_be_randomly_selected = no
 			}
-
-			labor_zionism = {
-			can_be_randomly_selected = no
+			labor_zionism = {  #劳工锡安主义
+				can_be_randomly_selected = no
 			}
-
-			eastern_progressivism = {
-			can_be_randomly_selected = no
+			eastern_progressivism = {  #东部进步主义
+				can_be_randomly_selected = no
 			}
-
-			nasserism = {
-			can_be_randomly_selected = no
-			}
-
-			reformism = {
-			can_be_randomly_selected = no
-			}
-
-			libertarian_socialism = {
-			can_be_randomly_selected = no
-			}
-
-			revisionism = {
-			can_be_randomly_selected = no
+			popular_front = {  #人民阵线
+				can_be_randomly_selected = no
 			}
 		}
 		color = { 154 43 77 }
@@ -126,36 +110,29 @@ ideologies = {
 
 	liberal_democracy = {#自由民主主义
 		types = {
-			christian_democracy = {
-			can_be_randomly_selected = no
+			christian_democracy = {  #基督教民主主义
+				can_be_randomly_selected = no
 			}
-
-			national_liberalism = {
-			can_be_randomly_selected = no
+			national_liberalism = {  #民族自由主义
+				can_be_randomly_selected = no
 			}
-
-			classical_liberalism = {
-			can_be_randomly_selected = no
+			classical_liberalism = {  #古典自由主义
+				can_be_randomly_selected = no
 			}
-
-			social_liberalism = {
-			can_be_randomly_selected = no
+			social_liberalism = {  #社会自由主义
+				can_be_randomly_selected = no
 			}
-
-			neoliberalism = {
-			can_be_randomly_selected = no
+			neoliberalism = {  #新自由主义
+				can_be_randomly_selected = no
 			}
-
-			radical_democracy = {
-			can_be_randomly_selected = no
+			radical_liberalism = {  #激进自由主义
+				can_be_randomly_selected = no
 			}
-
-			islamic_modernism = {
-			can_be_randomly_selected = no
+			islamic_modernism = {  #伊斯兰现代主义
+				can_be_randomly_selected = no
 			}
-
-			democratic_party_liberalism = {
-			can_be_randomly_selected = no
+			democratic_party_liberalism = {  #民主党自由主义
+				can_be_randomly_selected = no
 			}
 		}
 		color = { 78 91 137 }
@@ -164,252 +141,187 @@ ideologies = {
 
 	conservatism = { #保守主义
 		types = {
-			christian_conservatism = {
-			can_be_randomly_selected = no
+			christian_conservatism = {  #基督教保守主义
+				can_be_randomly_selected = no
 			}
-
-			islamic_conservatism = {
-			can_be_randomly_selected = no
+			islamic_conservatism = {  #伊斯兰保守主义
+				can_be_randomly_selected = no
 			}
-
-			liberal_conservatism = {
-			can_be_randomly_selected = no
+			liberal_conservatism = {  #自由保守主义
+				can_be_randomly_selected = no
 			}
-
-			paternal_conservatism = {
-			can_be_randomly_selected = no
+			paternal_conservatism = {  #家长制保守主义
+				can_be_randomly_selected = no
 			}
-
-			republican_conservatism = {
-			can_be_randomly_selected = no
+			republican_conservatism = {  #共和党保守主义
+				can_be_randomly_selected = no
 			}
-
-			liberal_zionism = {
-			can_be_randomly_selected = no
+			liberal_zionism = {  #自由锡安主义
+				can_be_randomly_selected = no
 			}
-
-			populist_conservatism = {
-			can_be_randomly_selected = no
+			populist_conservatism = {  #民粹保守主义
+				can_be_randomly_selected = no
 			}
 		}
 		color = { 26 26 101 }
 		can_be_boosted = no
 	}
 
-	paternalism = { #家长制
+	paternalism = { #家长制独裁
 		types = {
-			three_principles_tutelage = {
-			can_be_randomly_selected = no
+			three_principles_military= {  #三民主义·军政
+				can_be_randomly_selected = no
 			}
-
-			petainism_con = {
-			can_be_randomly_selected = no
+			kemalism = {  #凯末尔主义
+				can_be_randomly_selected = no
 			}
-
-			kemalism = {
-			can_be_randomly_selected = no
+			right_populism = {  #右翼民粹主义
+				can_be_randomly_selected = no
 			}
-
-			right_populism = {
-			can_be_randomly_selected = no
+			military_dictatorship = { #军事独裁
+				can_be_randomly_selected = no
 			}
-
-			old_conservatism = {
-			can_be_randomly_selected = no
+			personal_dictatorship = {  #一人独裁
+				can_be_randomly_selected = no
 			}
-
-			military_mandate = {
-			can_be_randomly_selected = no
+			peronism = {  #庇隆主义
+				can_be_randomly_selected = no
 			}
-
-			provisional_government = {
-			can_be_randomly_selected = no
+			absolute_monarchy = {  #绝对君主制
+				can_be_randomly_selected = no
 			}
-
-			non_dominant_system = {
-			can_be_randomly_selected = no
+			civilian_dictatorship = {  #文官独裁
+				can_be_randomly_selected = no
 			}
-
-			incomplete_democracy = {
-			can_be_randomly_selected = no
+			theocracy = {  #神权制度
+				can_be_randomly_selected = no
 			}
-
-			pragmatism = {
-			can_be_randomly_selected = no
-			}
-
-			guided_democracy = {
-			can_be_randomly_selected = no
+			dixie_faction = {  #迪克西派
+				can_be_randomly_selected = no
 			}
 		}
-		color = { 111 111 111 }
+		color = { 54 54 54 }
 		can_be_boosted = no
 	}
 
 	authoritarianism = { #专制主义
 		types = {
-			warlordism = {
-			can_be_randomly_selected = no
+			guided_democracy = {  #指导式民主
+				can_be_randomly_selected = no
 			}
-
-			military_junta = {
-			can_be_randomly_selected = no
+			provisional_government = {  #临时政府
+				can_be_randomly_selected = no
 			}
-
-			three_principles_military = {
-			can_be_randomly_selected = no
+			warlordism = {  #军阀
+				can_be_randomly_selected = no
 			}
-
-			personal_dictatorship = {
-			can_be_randomly_selected = no
+			military_junta = {  #军政府
+				can_be_randomly_selected = no
 			}
-
-			Fidelism = {
-			can_be_randomly_selected = no
+			three_principles_tutelage = {  #三民主义·训政
+				can_be_randomly_selected = no
 			}
-
-			peronism = {
-			can_be_randomly_selected = no
+			oligarchy = {  #寡头制
+				can_be_randomly_selected = no
 			}
-
-			absolute_monarchy = {
-			can_be_randomly_selected = no
+			colonial_government = {  #殖民政府
+				can_be_randomly_selected = no
 			}
-
-			oligarchy = {
-			can_be_randomly_selected = no
+			aristocratic_republic= {  #贵族共和制度
+				can_be_randomly_selected = no
 			}
-
-			civilian_dictatorship = {
-			can_be_randomly_selected = no
-			}
-
-			theocracy = {
-			can_be_randomly_selected = no
-			}
-
-			colonial_government = {
-			can_be_randomly_selected = no
-			}
-
-			aristocratic_conservatism = {
-			can_be_randomly_selected = no
-			}
-
-			guerrilla = {
-			can_be_randomly_selected = no
-			}
-
-			dixie_faction = {
-			can_be_randomly_selected = no
-			}
-
-			dual_monarchy_constitutionalism = {
-			can_be_randomly_selected = no
+			guerrilla = {  #游击队
+				can_be_randomly_selected = no
 			}
 		}
-		color = { 65 65 65 }
+		color = { 150 150 150 }
 		can_be_boosted = no
 	}
 
-	fascism = { #法西斯主义
+	corporatism = { #法团主义
 		types = {
-			corporatism = {
-			can_be_randomly_selected = no
+			fascism = { #法西斯主义
+				can_be_randomly_selected = no
 			}
-
-			Pan_Asianism_man = {
-			can_be_randomly_selected = no
+			Pan_Asianism_man = {  #泛亚思想·满洲
+				can_be_randomly_selected = no
 			}
-
-			Pan_Asianism_jap = {
-			can_be_randomly_selected = no
+			Pan_Asianism_jap = {  #泛亚思想·日本
+				can_be_randomly_selected = no
 			}
-
-			Pan_Asianism_rng = {
-			can_be_randomly_selected = no
+			Pan_Asianism_rng = {  #泛亚思想·改组政府
+				can_be_randomly_selected = no
 			}
-
-			petainism_fas = {
-			can_be_randomly_selected = no
+			Pan_Asianism_MPS = {  #泛亚思想·军政监
+				can_be_randomly_selected = no
 			}
-
-			templarism = {
-			can_be_randomly_selected = no
+			national_socialism = {  #民族社会主义
+				can_be_randomly_selected = no
 			}
-
-			right_nationalism = {
-			can_be_randomly_selected = no
+			left_national_ocialism = {  #左翼民族社会主义
+				can_be_randomly_selected = no
 			}
-
-			national_corporatism = {
-			can_be_randomly_selected = no
+			military_nazism = {  #军政纳粹主义
+				can_be_randomly_selected = no
 			}
+			bureaucracy_nazism = {  #官僚纳粹主义
+				can_be_randomly_selected = no
+			}
+			militarism = {  #军国主义
+				can_be_randomly_selected = no
+			}
+			zionism = {  #犹太复国主义
+				can_be_randomly_selected = no
+			}
+			falange = {  #长枪党
+				can_be_randomly_selected = no
+			}
+			right_populism = {  #右翼民粹主义
+				can_be_randomly_selected = no
+			}
+			national_revolution = {  #国民革命
+				can_be_randomly_selected = no
+			}
+		}
+		color = { 173 96 7 }
+		can_be_boosted = no
+	}
 
-			lancism = {
-			can_be_randomly_selected = no
+	racial_cleanliness = { #种族洁癖
+		types = {
+			extreme_nationalism = { #极端民族主义
+				can_be_randomly_selected = no
+			}
+			islamic_fundamentalism = { #伊斯兰原教旨主义
+				can_be_randomly_selected = no
+			}
+			revisionist_zionism = {  #修正锡安主义
+				can_be_randomly_selected = no
+			}
+			ethnic_state_system = {  #族裔国家制度
+				can_be_randomly_selected = no
+			}
+			spartanism = {  #斯巴达主义
+				can_be_randomly_selected = no
+			}
+			extreme_militarism = {  #极端军国主义
+				can_be_randomly_selected = no
 			}
 		}
 		color = { 0 0 0 }
 		can_be_boosted = no
 	}
 
-	national_socialism = { #民族社会主义
+	Non_modern_governance_principles = { #非现代治理原则
 		types = {
-			militarism = {
-			can_be_randomly_selected = no
+			slavery = {  #奴隶制度
+				can_be_randomly_selected = no
 			}
-
-			spartanism = {
-			can_be_randomly_selected = no
+			feudal_system = {  #封建制度
+				can_be_randomly_selected = no
 			}
-
-			zionism = {
-			can_be_randomly_selected = no
-			}
-		}
-		color = { 50 33 30 }
-		can_be_boosted = no
-	}
-
-	extreme_militarism = { #极端军国主义
-		types = {
-			extreme_nationalism = {
-			can_be_randomly_selected = no
-			}
-
-			islamic_fundamentalism = {
-			can_be_randomly_selected = no
-			}
-
-			revisionist_zionism = {
-			can_be_randomly_selected = no
-			}
-
-			Reform_Nazism = {
-			can_be_randomly_selected = no
-			}
-
-			bureaucratic_nazism = {
-			can_be_randomly_selected = no
-			}
-
-			military_nazism = {
-			can_be_randomly_selected = no
-			}
-		}
-		color = { 25 25 25 }
-		can_be_boosted = no
-	}
-
-	mysticism = { #神秘主义
-		types = {
-			occult_nazism = {
-			can_be_randomly_selected = no
-			}
-
-			tibetan_serfdom = {
-			can_be_randomly_selected = no
+			anarchy = {  #无政府状态
+				can_be_randomly_selected = no
 			}
 		}
 		color = { 75 0 130 }

@@ -6,12 +6,7 @@ state={
 	history={
 		owner = RKO
 		add_core_of = RKO
-		victory_points = {
-			310 3 #Daugavpils
-		}
-		victory_points = {
-			222 1 #Rezekne
-		}
+		
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

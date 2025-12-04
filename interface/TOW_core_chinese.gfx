@@ -1,0 +1,52 @@
+bitmapfonts = {
+	bitmapfont = {
+		name = "TOW_news_font"
+		fontfiles = { 
+			"gfx/fonts/TOW_news_font_0"
+			"gfx/fonts/TOW_news_font_1"
+			"gfx/fonts/chinese/hoi4_typewriter22_1of4"	
+			"gfx/fonts/chinese/hoi4_typewriter22_2of4"	
+			"gfx/fonts/chinese/hoi4_typewriter22_3of4"	
+			"gfx/fonts/chinese/hoi4_typewriter22_4of4"	
+			"gfx/fonts/Jinghua.bm_00"
+			"gfx/fonts/Jinghua.bm_01"
+			"gfx/fonts/Jinghua.bm_02"
+			"gfx/fonts/Jinghua.bm_03"
+			"gfx/fonts/Jinghua.bm_04"
+			"gfx/fonts/Jinghua.bm_05"
+			"gfx/fonts/Jinghua.bm_06"
+			"gfx/fonts/Jinghua.bm_07"
+			"gfx/fonts/Jinghua.bm_08"
+			"gfx/fonts/Jinghua.bm_09"
+			"gfx/fonts/Jinghua.bm_10"
+			"gfx/fonts/Jinghua.bm_11"
+			"gfx/fonts/Jinghua.bm_12"
+		}
+	color = 0xffffffff
+	}
+	bitmapfont = {
+		name = "TWO_event_detail_font"
+		fontfiles = { 
+			"gfx/fonts/TWO_event_detail_font_0"
+			"gfx/fonts/chinese/hoi_16typewriter_1of4EX"	
+			"gfx/fonts/chinese/hoi_16typewriter_2of4EX"	
+			"gfx/fonts/chinese/hoi_16typewriter_3of4EX"	
+			"gfx/fonts/chinese/hoi_16typewriter_4of4EX"
+			"gfx/fonts/Jinghua.bm_00"
+			"gfx/fonts/Jinghua.bm_01"
+			"gfx/fonts/Jinghua.bm_02"
+			"gfx/fonts/Jinghua.bm_03"
+			"gfx/fonts/Jinghua.bm_04"
+			"gfx/fonts/Jinghua.bm_05"
+			"gfx/fonts/Jinghua.bm_06"
+			"gfx/fonts/Jinghua.bm_07"
+			"gfx/fonts/Jinghua.bm_08"
+			"gfx/fonts/Jinghua.bm_09"
+			"gfx/fonts/Jinghua.bm_10"
+			"gfx/fonts/Jinghua.bm_11"
+			"gfx/fonts/Jinghua.bm_12"
+		}
+	color = 0xffffffff
+	}
+
+}

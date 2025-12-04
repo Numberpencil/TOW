@@ -26,9 +26,7 @@ state = {
 			}
 		}
 
-		victory_points = { 
-			7137 10 # Nanning
-		}
+		
 
 
 	}
