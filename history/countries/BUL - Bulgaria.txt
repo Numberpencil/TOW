@@ -27,15 +27,13 @@ set_technology = { #VANILLA & DLC
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = authoritarianism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 90
-	democratic = 0
-	communism = 0
-	neutrality = 10
+	authoritarianism = 91
+	conservatism = 9
 }

@@ -86,6 +86,8 @@
  theocracy: "神权制度"
  dixie_faction: "迪克西派"
 
+ social_nationalism: "社会民族主义"
+ military_control: "军事管制"
  provisional_government: "临时政府"
  guided_democracy: "引导式民主"
  three_principles_tutelage: "三民主义·训政"
@@ -94,8 +96,9 @@
  peronism: "庇隆主义"
  oligarchy: "寡头制"
  colonial_government: "殖民政府"
- aristocratic_republic: "贵族共和制度"
- guerrilla: "游击队"
+ aristocratic_conservatism: "贵族保守主义"
+ guerrilla: "游击运动"
+ dual_monarchical_constitutional_system: "二元君主立宪制"
 
  fascism: "法西斯主义"
  Pan_Asianism_man: "泛亚主义·满洲"
@@ -109,7 +112,7 @@
  bureaucracy_nazism: "官僚纳粹主义"
  zionism: "犹太复国主义"
  falange: "长枪党"
- right_populism: "右翼民粹主义"
+ right_wing_nationalism: "右翼民族主义"
  national_revolution: "国民革命"
 
  extreme_nationalism: "极端民族主义"

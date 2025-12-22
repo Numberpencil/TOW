@@ -14,7 +14,7 @@ characters={
 		}
 
 		country_leader={
-			ideology = fascism_ideology
+			ideology = personal_dictatorship
 			desc = POLITICS_MEN_DEWANG_DESC
 			traits={ 
 				

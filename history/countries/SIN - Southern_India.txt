@@ -12,17 +12,14 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = Non_modern_governance_principles
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 5
-	democratic = 50
-	communism = 5
-	neutrality = 40
+	Non_modern_governance_principles = 100
 }
 
 

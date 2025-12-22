@@ -12,17 +12,17 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 70
-	democratic = 0
-	communism = 0
-	neutrality = 30
+	corporatism = 50
+	authoritarianism = 30
+	paternalism = 12
+	communist = 8
 }
 
 

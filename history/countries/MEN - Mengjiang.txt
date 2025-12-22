@@ -15,17 +15,16 @@ set_technology = {
 recruit_character = MEN_Dewang
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = paternalism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 90
-	democratic = 0
-	communism = 0
-	neutrality = 10
+	corporatism = 24
+	authoritarianism = 20
+	paternalism = 56
 }
 
 

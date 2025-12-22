@@ -46,8 +46,8 @@ recruit_character = BRM_fascist_guy
 	set_technology = {
 
 		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -69,15 +69,15 @@ recruit_character = BRM_fascist_guy
 	}
 }
 set_politics = {
-	ruling_party = authoritarianism
+	ruling_party = corporatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	authoritarianism = 75
-	fascism = 15
-	paternalism = 15
+	corporatism = 70
+	paternalism = 26
+	communist = 4
 	
 }
 #create_country_leader = {

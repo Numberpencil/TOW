@@ -114,10 +114,10 @@ set_convoys = 5
 	oob = "MAN_1939"
 	set_technology = {
 		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
-		fleet_in_being = 1
-		battlefleet_concentration = 1
+		
+		
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -140,14 +140,15 @@ set_convoys = 5
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 80
-	neutrality = 20
+	authoritarianism = 17
+	corporatism = 80
+	communist = 3
 }
 
 1939.1.1 = {

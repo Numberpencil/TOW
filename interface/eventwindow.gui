@@ -24,7 +24,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "top_Window"
 			position = { x=0 y=0 }	
-			size = { width = 581 height =121 }
+			size = { width = 581 height =295 }
 			moveable = yes
 			Orientation = UPPER_LEFT
 
@@ -35,7 +35,7 @@ guiTypes = {
 		
 			instantTextBoxType = {
 				name = "Title"
-				position = { x = 14 y = 70 }
+				position = { x = 14 y = 90 }
 				font = "TOW_news_font"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
@@ -46,7 +46,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "btn_minimize"
-				position = {x=10 y=45}
+				position = {x=40 y=55}
 				spriteType = "GFX_event_button_minimize"
 				clicksound = click_default
 				pdx_tooltip = "MINIMIZE_EVENT"
@@ -55,8 +55,8 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "midsection"
-			position = { x=0 y=121 }	
-			size = { width = 580 height = 100 }
+			position = { x=0 y=295 }	
+			size = { width = 580 height = 172 }
 			moveable = yes
 			clipping = no
 			Orientation = UPPER_LEFT
@@ -68,20 +68,20 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "Description"
-				position = { x = 31 y = 0 }
+				position = { x = 35 y = -150 }
 				font = "TWO_event_detail_font"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
-				maxWidth = 512
-				maxHeight = 230
+				maxWidth = 510
+				maxHeight = 900
 				format = left
 			}	
 		}			
 
 		containerWindowType = {
 			name = "bottom_Window"
-			position = { x=0 y=221 }	
-			size = { width = 581 height = 206 }
+			position = { x=0 y=467 }	
+			size = { width = 581 height = 321 }
 			moveable = yes
 			clipping = no
 			Orientation = UPPER_LEFT
@@ -104,17 +104,17 @@ guiTypes = {
 				alwaystransparent = yes				
 			}
 
-			iconType = {
-				name ="event_pic_clip"
-				spriteType = "GFX_event_pic_clip"
-				position = { x = -3 y = 35 }
-				Orientation = "UPPER_LEFT"
-			}
+			# iconType = {
+			# 	name ="event_pic_clip"
+			# 	spriteType = "GFX_event_pic_clip"
+			# 	position = { x = -3 y = 35 }
+			# 	Orientation = "UPPER_LEFT"
+			# }
 
 
 			gridBoxType = {
 				name = "options_grid"
-				position = { x = 215 y = -1 }
+				position = { x = 235 y = 150 }
 				size = { width = 300 height = 30 }
 				slotsize = { width = 300 height = 47 }
 				max_slots_horizontal = 1
@@ -494,7 +494,7 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 				alwaystransparent = yes
 			}
-			
+
 			iconType = {
 				name ="event_picture_overlay"
 				spriteType = "GFX_event_news_pic_overlay"
@@ -505,7 +505,7 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "Title"
-				position = { x = 12 y = 260 }
+				position = { x = 12 y = 3 }
 				font = "TOW_news_font"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
@@ -530,7 +530,7 @@ guiTypes = {
 		
 			instantTextBoxType = {
 				name = "Description"
-				position = { x = 39 y = 170 }
+				position = { x = 39 y = 175 }
 				font = "TWO_event_detail_font"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	

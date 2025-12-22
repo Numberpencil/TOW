@@ -107,8 +107,8 @@ set_technology = {
 	marines  = 1
 	gw_artillery = 1
 	basic_train = 1
-	trench_warfare = 1
-	base_strike = 1
+	
+	
 	fuel_silos = 1
 	synth_oil_experiments = 1
 	fuel_refining = 1
@@ -351,19 +351,19 @@ create_import = {
 		### Doctrines ###
 
 		#air
-		force_rotation = 1
-		fighter_baiting = 1
-		low_echelon_support = 1
-		dispersed_fighting = 1
+		
+		
+		
+		
 
 		#land
-		grand_battle_plan = 1
+		
 		prepared_defense = 1
-		grand_assault = 1
+		
 
 		#navy
-		carrier_primacy = 1
-		carrier_task_forces = 1
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -475,13 +475,14 @@ set_autonomy = {
 
 # Setup Politics
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 100
+	corporatism = 90
+	racial_cleanliness = 10
 }
 
 # Recruiting Characters

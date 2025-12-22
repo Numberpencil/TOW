@@ -66,11 +66,11 @@ set_stability = 0.8
 		support_weapons = 1
 
 		#doctrines
-		air_superiority = 1
+		
 
-		mass_assault = 1
-		pocket_defence = 1
-		defence_in_depth = 1
+		
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -90,11 +90,11 @@ set_stability = 0.8
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = paternalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	paternalism = 100
 }

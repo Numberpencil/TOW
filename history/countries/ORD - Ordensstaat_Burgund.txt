@@ -12,17 +12,14 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = racial_cleanliness
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 90
-	democratic = 0
-	communism = 0
-	neutrality = 10
+	racial_cleanliness = 100
 }
 
 

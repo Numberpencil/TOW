@@ -22,15 +22,13 @@ puppet = RKO
 puppet = MAD
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 90
-	democratic = 1
-	communism = 1
-	neutrality = 8
+	fascism = 80
+	racial_cleanliness = 20
 }

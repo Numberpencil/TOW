@@ -48,11 +48,11 @@ recruit_character = TIB_taktra_rinpoche
 	oob = "TIB_1939"
 	set_technology = {
 		#doctrines
-		air_superiority = 1
+		
 
-		mass_assault = 1
-		pocket_defence = 1
-		defence_in_depth = 1
+		
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -72,11 +72,12 @@ recruit_character = TIB_taktra_rinpoche
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = Non_modern_governance_principles
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	Non_modern_governance_principles = 60
+	paternalism = 40
 }

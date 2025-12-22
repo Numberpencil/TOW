@@ -1,0 +1,37 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_newspaper_header"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header.dds"
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_newspaper_header_JAP"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header_JAP.dds"
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_newspaper_header_SOV"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header_SOV.dds"
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_newspaper_header_PRC"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header_PRC.dds"
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_newspaper_header_GER"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header_GER.dds"
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_newspaper_header_USA"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header_USA.dds"
+		legacy_lazy_load = no
+	}
+	SpriteType = {
+		name = "GFX_newspaper_header_CUB"
+		texturefile = "gfx/interface/custom_news_headers/newspaper_header_CUB.dds"
+		legacy_lazy_load = no
+	}
+}

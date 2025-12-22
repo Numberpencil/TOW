@@ -1,0 +1,26 @@
+# by Jane
+
+add_namespace = test
+
+country_event = { # Daoud Khan sacked, March 1963
+	id = test.1
+	title = test.1.t
+	desc = test.1.d
+	picture = GFX_report_event_lazar_generic_1
+	is_triggered_only = yes
+	option = {
+		name = test.1.a
+	}
+}
+news_event = {
+	id = test.0
+	title = test.0.t
+	desc = test.0.d
+	picture = GFX_news_event_generic_panzer_attack
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = test.0.a
+	}
+	# TODO make better/more texts 
+}

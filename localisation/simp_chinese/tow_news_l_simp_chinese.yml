@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ TWO_newspaper_header_GER: "\n£newspaper_header_GER\n\n\n\n\n\n\n\n\n\n"
+ TWO_newspaper_header_JAP: "\n£newspaper_header_JAP\n\n\n\n\n\n\n\n\n\n"
+ TWO_newspaper_header_SOV: "\n£newspaper_header_SOV\n\n\n\n\n\n\n\n\n\n"
+ TWO_newspaper_header_PRC: "\n£newspaper_header_PRC\n\n\n\n\n\n\n\n\n\n"
+ TWO_newspaper_header_USA: "\n£newspaper_header_USA\n\n\n\n\n\n\n\n\n\n"
+ TWO_newspaper_header_CUB: "\n£newspaper_header_CUB\n\n\n\n\n\n\n\n\n\n"
+ TWO_newspaper_header: "\n£newspaper_header\n\n\n\n\n\n\n\n\n\n"
+
+ test.0.t: "[Get_newspaper_header]我是测试"
+ test.0.d: "这是一个用于测试事件窗口报纸标题显示的描述文本。"
+ test.0.a: "114514"

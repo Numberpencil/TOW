@@ -14,7 +14,7 @@ characters={
 		}
 
 		country_leader={
-			ideology=nazism
+			ideology=national_socialism
 			desc = POLITICS_GER_HITLER_DESC
 			traits={ 
 				

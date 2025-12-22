@@ -22,16 +22,13 @@ set_technology = {
 recruit_character = SER_Dimitrije_Ljotić
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1936.1.1"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 20
-	fascism = 30
-	communism = 20
-	neutrality = 30
+	corporatism = 100
 }
 set_stability = 0.6
 

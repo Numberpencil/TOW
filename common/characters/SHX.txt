@@ -14,7 +14,7 @@ characters={
 		}
 
 		country_leader={
-			ideology=warlordism
+			ideology=civilian_dictatorship
 			desc = POLITICS_SHX_FU_ZUOYI_DESC
 			traits={ 
 				

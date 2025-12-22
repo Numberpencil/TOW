@@ -8,7 +8,7 @@ ideologies = {
 			maoism = {  #毛泽东思想
 				can_be_randomly_selected = no 
 			}
-			national_liberation_communism = {  #民族解放共产主义
+			national_liberation_communist = {  #民族解放共产主义
 				can_be_randomly_selected = no
 			}
 			yezhovism = {  #叶若夫思想
@@ -54,7 +54,7 @@ ideologies = {
 			titoism = {  #铁托主义
 				can_be_randomly_selected = no
 			}
-			euro_communism = {   #欧洲共产主义
+			euro_communist = {   #欧洲共产主义
 				can_be_randomly_selected = no
 			}
 			left_nationalism = {  #左翼民族主义
@@ -78,6 +78,7 @@ ideologies = {
 			arab_socialism = {  #阿拉伯社会主义
 				can_be_randomly_selected = no
 			}
+			
 		}
 		color = { 133 33 33 }
 		can_be_boosted = no
@@ -169,6 +170,9 @@ ideologies = {
 
 	paternalism = { #家长制独裁
 		types = {
+			warlordism = {  #军阀
+				can_be_randomly_selected = no
+			}
 			three_principles_military= {  #三民主义·军政
 				can_be_randomly_selected = no
 			}
@@ -206,13 +210,16 @@ ideologies = {
 
 	authoritarianism = { #专制主义
 		types = {
+			military_control = {  #军事管制
+				can_be_randomly_selected = no
+			}
+			social_nationalism = {  #社会民族主义
+				can_be_randomly_selected = no
+			}
 			guided_democracy = {  #指导式民主
 				can_be_randomly_selected = no
 			}
 			provisional_government = {  #临时政府
-				can_be_randomly_selected = no
-			}
-			warlordism = {  #军阀
 				can_be_randomly_selected = no
 			}
 			military_junta = {  #军政府
@@ -227,10 +234,13 @@ ideologies = {
 			colonial_government = {  #殖民政府
 				can_be_randomly_selected = no
 			}
-			aristocratic_republic= {  #贵族共和制度
+			aristocratic_conservatism= {  #贵族保守主义
 				can_be_randomly_selected = no
 			}
-			guerrilla = {  #游击队
+			guerrilla = {  #游击运动
+				can_be_randomly_selected = no
+			}
+			dual_monarchical_constitutional_system = {  #二元君主立宪制
 				can_be_randomly_selected = no
 			}
 		}
@@ -276,14 +286,14 @@ ideologies = {
 			falange = {  #长枪党
 				can_be_randomly_selected = no
 			}
-			right_populism = {  #右翼民粹主义
+			right_wing_nationalism = {  #右翼民族主义
 				can_be_randomly_selected = no
 			}
 			national_revolution = {  #国民革命
 				can_be_randomly_selected = no
 			}
 		}
-		color = { 173 96 7 }
+		color = { 51 33 31 }
 		can_be_boosted = no
 	}
 

@@ -84,8 +84,8 @@ recruit_character = YUN_ding_zhipan
 
 	set_technology = {
 		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -114,5 +114,6 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	authoritarianism = 100
+	authoritarianism = 67
+	paternalism = 33
 }

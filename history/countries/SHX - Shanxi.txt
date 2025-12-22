@@ -16,11 +16,12 @@ recruit_character = SHX_Fu_zuoyi
 
 
 set_politics = {
-	ruling_party = authoritarianism
+	ruling_party = paternalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	authoritarianism = 100
+	paternalism = 96
+	communist = 4
 }

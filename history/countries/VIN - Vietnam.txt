@@ -16,8 +16,8 @@ set_technology = {
 	motorised_infantry = 1
 	gw_artillery = 1
 	interwar_antiair = 1
-	trench_warfare = 1
-	fleet_in_being = 1
+	
+	
 }
 if = {
 	limit = {
@@ -92,16 +92,14 @@ if = {
 }
 
 set_politics = {
-	ruling_party = authoritarianism
+	ruling_party = paternalism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	authoritarianism = 35
-	paternalism = 15
-	socialism = 15
-	fascism = 35
+	paternalism = 60
+	communist = 40
 }
 
 #NOTICE# please watch out for spelling, im using Vietnamese names as they spell them, game might not support these characters!

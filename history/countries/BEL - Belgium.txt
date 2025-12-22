@@ -14,7 +14,7 @@ set_technology = {
 	tech_engineers = 1
 	tech_trucks = 1
 	motorised_infantry = 1
-	trench_warfare = 1
+	
 	fuel_silos = 1
 	fuel_refining = 1
 	basic_train = 1
@@ -132,16 +132,14 @@ set_variable = { BEL_rexist_legion_land_night_attack = 0 }
 recruit_character = BEL_Léon_Degrelle
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1936.1.1" #Was 1932.11.27 but changed to allow for Government Resigns focus to simulate this election.
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 11
-	fascism = 83
-	communism = 6
+	corporatism = 100
 }
 
 

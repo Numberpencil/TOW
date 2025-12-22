@@ -376,15 +376,15 @@ if = {
 		support_weapons = 1
 
 		#doctrines
-		air_superiority = 1
-
-		mass_assault = 1
-		pocket_defence = 1
-		defence_in_depth = 1
 		
-		fleet_in_being = 1
-		convoy_sailing = 1
-		submarine_operations = 1
+
+		
+		
+		
+		
+		
+		
+		
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -420,13 +420,13 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = paternalism
 	last_election = "1935.2.8"
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 6
-	neutrality = 94
+	authoritarianism = 40
+	paternalism = 60
 }
 
 set_convoys = 20
