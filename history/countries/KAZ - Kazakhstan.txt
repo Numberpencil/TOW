@@ -85,8 +85,8 @@ if = {
 }
 
 set_popularities = {
-	democratic = 60
-	communism = 40
+	liberal_democracy = 60
+	communist = 40
 }
 
 create_country_leader = {
@@ -128,7 +128,7 @@ recruit_character = KAZ_nccr
 recruit_character = KAZ_fascist_guy
 recruit_character = KAZ_coi
 recruit_character = KAZ_ai2
-recruit_character = KAZ_democratic_guy
+recruit_character = KAZ_liberal_democracy_guy
 recruit_character = KAZ_ar
 recruit_character = KAZ_acgs
 

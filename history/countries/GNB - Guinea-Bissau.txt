@@ -7,7 +7,7 @@ set_technology = {
 
 set_convoys = 10
 
-recruit_character = GNB_democratic_guy
+recruit_character = GNB_liberal_democracy_guy
 recruit_character = GNB_mt
 recruit_character = GNB_acgs
 recruit_character = GNB_coi
@@ -76,14 +76,14 @@ recruit_character = GNB_communist_guy
 }
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = communist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 50
-	neutrality = 5
+	liberal_democracy = 25
+	corporatism = 20
+	communist = 50
+	conservatism = 5
 }

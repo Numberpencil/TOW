@@ -23,7 +23,7 @@ set_popularities = {
 	progressivism = 16
 	communist = 66
 	socialism = 18
-	democratic = 0
+	liberal_democracy = 0
 }
 
 

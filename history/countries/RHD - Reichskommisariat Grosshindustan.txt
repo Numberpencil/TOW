@@ -148,17 +148,17 @@ set_convoys = 0
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 
 }
 set_popularities = {
-	neutrality = 0
-	democratic = 15
-	fascism = 80
-	communism = 5
+	conservatism = 0
+	liberal_democracy = 15
+	corporatism = 80
+	communist = 5
 }
 
 add_ideas = {

@@ -63,7 +63,7 @@ IF = {
 	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_political_power_factor = -0.1 }
 	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_war_support_factor = -0.05 }
 	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_production_speed_buildings_factor = 0.03 }
-	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_democratic_drift = 0.01 }
+	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_liberal_democracy_drift = 0.01 }
 	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_autonomy_gain_global_factor = 0.00 }
 	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_research_speed_factor = 0.01 }
 	set_variable = { BEL.COG_belgian_congo_colonial_dynamic_modifier_consumer_goods_factor = 0.0 }
@@ -161,14 +161,14 @@ IF = {
 
 # Setup 1936 politics 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 80
-	democratic = 20
+	conservatism = 80
+	liberal_democracy = 20
 }
 
 ### The 1939 Scenario ###
@@ -201,16 +201,16 @@ set_popularities = {
 
 		# Ideology and Politics 
 		set_politics = {
-			ruling_party = neutrality
+			ruling_party = conservatism
 			last_election = "1936.1.1"
 			election_frequency = 48
 			elections_allowed = no
 		}
 		set_popularities = {
-			neutrality = 70
-			democratic = 25
-			fascism = 0
-			communism = 5
+			conservatism = 70
+			liberal_democracy = 25
+			corporatism = 0
+			communist = 5
 		}
 
 		add_political_power = 600

@@ -67,15 +67,15 @@ set_convoys = 20
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 50
-	fascism = 3
-	communism = 47
+	liberal_democracy = 50
+	corporatism = 3
+	communist = 47
 }
 
 recruit_character = CAT_lluis_companys
@@ -91,7 +91,7 @@ create_country_leader = {
 	name = "Daniel Cardona i Civit"
 	picture = GFX_portrait_Daniel_Cardona_i_Civit
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 }
 
 create_country_leader = {

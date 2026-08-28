@@ -16,7 +16,7 @@ recruit_character = ZAM_nccr
 recruit_character = ZAM_aco2
 recruit_character = ZAM_coi
 recruit_character = ZAM_aa2
-recruit_character = ZAM_democratic_guy
+recruit_character = ZAM_liberal_democracy_guy
 recruit_character = ZAM_acd2
 recruit_character = ZAM_acr
 recruit_character = ZAM_fascist_guy
@@ -77,14 +77,14 @@ recruit_character = ZAM_ar
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 55
-	fascism = 15
-	communism = 5
-	neutrality = 25
+	liberal_democracy = 55
+	corporatism = 15
+	communist = 5
+	conservatism = 25
 }

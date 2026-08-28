@@ -68,14 +68,14 @@ set_convoys = 10
 recruit_character = AFA_sultan_mohamed_yayyo_of_aussa
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 0
-	fascism = 20
-	communism = 5
-	neutrality = 75
+	liberal_democracy = 0
+	corporatism = 20
+	communist = 5
+	conservatism = 75
 }

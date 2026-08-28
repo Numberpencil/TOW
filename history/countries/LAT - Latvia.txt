@@ -31,7 +31,7 @@ IF = {
 	limit = { has_dlc = "No Step Back" }
 	add_ideas = {
 		LAT_perkonkrust_idea
-		democratic_opposition
+		liberal_democracy_opposition
 	}
 }
 
@@ -106,7 +106,7 @@ set_convoys = 10
 	
 	remove_ideas = {
 		LAT_perkonkrust_idea
-		democratic_opposition
+		liberal_democracy_opposition
 	}
 
 	IF = {
@@ -198,16 +198,16 @@ set_convoys = 10
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1931.10.3"
 	election_frequency = 10
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 30
-	fascism = 15
-	communism = 15
-	neutrality = 40
+	liberal_democracy = 30
+	corporatism = 15
+	communist = 15
+	conservatism = 40
 }
 
 # probably needs some adjustment before nazi occupation in 1940

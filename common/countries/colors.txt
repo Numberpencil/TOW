@@ -352,7 +352,7 @@ SWI = {
 
 
 ALB = {
-	color = rgb { 149 45 102 }
+	color = rgb { 53 104 68 }
 	color_ui = rgb { 194 59 133 }
 }
 NOR = {

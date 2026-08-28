@@ -151,7 +151,7 @@ set_convoys = 15
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = liberal_democracy
 		last_election = "1938.3.28"
 		election_frequency = 48
 		elections_allowed = yes
@@ -243,16 +243,16 @@ set_convoys = 15
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1934.4.19"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 44
-	neutrality = 53
-	communism = 3
-	fascism = 0
+	liberal_democracy = 44
+	conservatism = 53
+	communist = 3
+	corporatism = 0
 }
 
 1939.1.1 = {

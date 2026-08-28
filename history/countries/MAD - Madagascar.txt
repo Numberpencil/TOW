@@ -11,7 +11,7 @@ set_convoys = 5
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -20,10 +20,10 @@ set_politics = {
 recruit_character = MAD_Emil_Maurice
 
 set_popularities = {
-	democratic = 0
-	fascism = 100
-	communism = 0
-	neutrality = 0
+	liberal_democracy = 0
+	corporatism = 100
+	communist = 0
+	conservatism = 0
 }
 
 #create_country_leader = {

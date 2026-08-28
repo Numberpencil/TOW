@@ -47,16 +47,16 @@ IF = {
 		has_dlc = "Trial of Allegiance"
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = liberal_democracy
 		last_election = "1934.11.11"
 		election_frequency = 72
 		elections_allowed = yes
 	}
 	set_popularities = {
-		neutrality = 32
-		democratic = 54
-		communism = 12
-		fascism = 2
+		conservatism = 32
+		liberal_democracy = 54
+		communist = 12
+		corporatism = 2
 	}
 
 	recruit_character = BOL_jose_luis_tejada_sorzano
@@ -81,14 +81,14 @@ IF = {
 
 	ELSE = {
 		set_politics = {
-			ruling_party = neutrality
+			ruling_party = conservatism
 			last_election = "1934.11.11"
 			election_frequency = 72
 			elections_allowed = yes
 		}
 
 		set_popularities = {
-			neutrality = 100
+			conservatism = 100
 		}
 
 		recruit_character = BOL_jose_luis_tejada_sorzano
@@ -184,13 +184,13 @@ set_country_flag = monroe_doctrine
 	}
 
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1934.11.11"
 		election_frequency = 72
 		elections_allowed = yes
 	}
 
 	set_popularities = {
-		neutrality = 100
+		conservatism = 100
 	}
 }

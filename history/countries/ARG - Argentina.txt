@@ -42,23 +42,23 @@ set_variable = { ARG_corruption_war_support_factor = -0.2 }
 # Crackdown on Corruption Modifier
 set_variable = { ARG_corruption_crackdown_stability_factor = 0.1 }
 set_variable = { ARG_corruption_crackdown_production_factory_max_efficiency_factor = 0.1 }
-set_variable = { ARG_corruption_crackdown_neutrality_factor = 0.02 }
-set_variable = { ARG_corruption_crackdown_fascism_factor = 0.02 }
+set_variable = { ARG_corruption_crackdown_conservatism_factor = 0.02 }
+set_variable = { ARG_corruption_crackdown_corporatism_factor = 0.02 }
 set_variable = { ARG_corruption_crackdown_war_support_factor = -0.1 }
 
 # Anti Corruption Modifier
 set_variable = { ARG_anti_corruption_stability_factor = 0.15 }
 set_variable = { ARG_anti_corruption_production_factory_max_efficiency_factor = 0.1 }
-set_variable = { ARG_anti_corruption_neutrality_factor = 0.02 }
-set_variable = { ARG_anti_corruption_democratic_factor = 0.03 }
+set_variable = { ARG_anti_corruption_conservatism_factor = 0.02 }
+set_variable = { ARG_anti_corruption_liberal_democracy_factor = 0.03 }
 set_variable = { ARG_anti_corruption_war_support_factor = -0.2 }
 
 # Growing Nationalism Modifier
-set_variable = { ARG_growing_nationalism_fascism_drift = 0.05 } 
+set_variable = { ARG_growing_nationalism_corporatism_drift = 0.05 } 
 set_variable = { ARG_growing_nationalism_recruitable_population_factor = 0.02 }
 set_variable = { ARG_growing_nationalism_stability_factor = 0.05 }
 set_variable = { ARG_growing_nationalism_war_support_factor = 0 }
-set_variable = { ARG_growing_nationalism_democratic_drift = -0.02 }
+set_variable = { ARG_growing_nationalism_liberal_democracy_drift = -0.02 }
 set_variable = { ARG_growing_nationalism_political_power_factor = 0 }
 
 IF = {
@@ -330,31 +330,31 @@ set_country_flag = monroe_doctrine
 set_convoys = 120
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1931.11.8"
 	election_frequency = 72
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 25
-	neutrality = 30
+	liberal_democracy = 25
+	corporatism = 20
+	communist = 25
+	conservatism = 30
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1937.9.5"
 		election_frequency = 108
 		elections_allowed = yes
 	}
 
 	set_popularities = {
-		democratic = 15
-		fascism = 20
-		communism = 15
-		neutrality = 50
+		liberal_democracy = 15
+		corporatism = 20
+		communist = 15
+		conservatism = 50
 	}
 
 	recruit_character = ARG_roberto_maria_ortiz

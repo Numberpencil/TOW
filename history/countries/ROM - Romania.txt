@@ -147,7 +147,7 @@ if = {
 	give_guarantee = TUR
 	give_guarantee = YUG
 }
-add_ideas = neutrality_idea
+add_ideas = conservatism_idea
 
 #Kick off kings crazy life
 if = {
@@ -191,7 +191,7 @@ if = {
 set_convoys = 10
 1939.1.1 = {
 	
-	remove_ideas = neutrality_idea
+	remove_ideas = conservatism_idea
 
 	add_political_power = 1198
 	add_command_power = 100

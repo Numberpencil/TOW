@@ -97,7 +97,7 @@ create_country_leader = {
 	name = "Itzhak Gaster"
 	desc = ""
 	picture = GFX_portrait_Itzhak_Gaster
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 	traits = {
 		#
 	}

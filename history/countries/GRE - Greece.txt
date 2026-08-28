@@ -7,11 +7,11 @@ oob = "GRE_1936"
 ###################
 
 #Cosmetic tags used (3D models will look for these cosmetic tags when hooking themselves):
-#GRE_communism
-#GRE_democratic
-#GRE_fascism
-#GRE_neutrality
-set_cosmetic_tag = GRE_neutrality
+#GRE_communist
+#GRE_liberal_democracy
+#GRE_corporatism
+#GRE_conservatism
+set_cosmetic_tag = GRE_conservatism
 
 set_research_slots = 3
 

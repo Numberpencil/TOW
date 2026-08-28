@@ -29,29 +29,29 @@ set_technology = {
 
 ## Earned NS's
 
-# Neutrality
-set_variable = { BEL_neutrality_production_speed_buildings_factor = 0.1 }
-set_variable = { BEL_neutrality_production_speed_arms_factory_factor = 0 }
-set_variable = { BEL_neutrality_production_speed_infrastructure_factor = 0 }
-set_variable = { BEL_neutrality_production_speed_industrial_complex_factor = 0 }
-set_variable = { BEL_neutrality_join_faction_tension = 1 }
-set_variable = { BEL_neutrality_justify_war_goal_time = 1 }
-set_variable = { BEL_neutrality_guarantee_tension = 1 }
-set_variable = { BEL_neutrality_enemy_justify_war_goal_time = 0 }
-set_variable = { BEL_neutrality_send_volunteers_tension = 0 }
-set_variable = { BEL_neutrality_lend_lease_tension = 0 }
-set_variable = { BEL_neutrality_embargo_threshold_factor = 0 }
+# conservatism
+set_variable = { BEL_conservatism_production_speed_buildings_factor = 0.1 }
+set_variable = { BEL_conservatism_production_speed_arms_factory_factor = 0 }
+set_variable = { BEL_conservatism_production_speed_infrastructure_factor = 0 }
+set_variable = { BEL_conservatism_production_speed_industrial_complex_factor = 0 }
+set_variable = { BEL_conservatism_join_faction_tension = 1 }
+set_variable = { BEL_conservatism_justify_war_goal_time = 1 }
+set_variable = { BEL_conservatism_guarantee_tension = 1 }
+set_variable = { BEL_conservatism_enemy_justify_war_goal_time = 0 }
+set_variable = { BEL_conservatism_send_volunteers_tension = 0 }
+set_variable = { BEL_conservatism_lend_lease_tension = 0 }
+set_variable = { BEL_conservatism_embargo_threshold_factor = 0 }
 
-# Defensive Neutrality
-set_variable = { BEL_defensive_neutrality_max_dig_in = 0 }
-set_variable = { BEL_defensive_neutrality_production_speed_bunker_factor = 0 } 
-set_variable = { BEL_defensive_neutrality_land_bunker_effectiveness_factor = 0 }
-set_variable = { BEL_defensive_neutrality_bunker_max_level_terrain_limit = 0 }
-set_variable = { BEL_defensive_neutrality_coastal_bunker_max_level_terrain_limit = 0 }
-set_variable = { BEL_defensive_neutrality_surrender_limit = 0 }
-set_variable = { BEL_defensive_neutrality_army_core_defence_factor = 0 }
-set_variable = { BEL_defensive_neutrality_training_time_factor = 0 }
-set_variable = { BEL_defensive_neutrality_mobilization_speed = 0 }
+# Defensive conservatism
+set_variable = { BEL_defensive_conservatism_max_dig_in = 0 }
+set_variable = { BEL_defensive_conservatism_production_speed_bunker_factor = 0 } 
+set_variable = { BEL_defensive_conservatism_land_bunker_effectiveness_factor = 0 }
+set_variable = { BEL_defensive_conservatism_bunker_max_level_terrain_limit = 0 }
+set_variable = { BEL_defensive_conservatism_coastal_bunker_max_level_terrain_limit = 0 }
+set_variable = { BEL_defensive_conservatism_surrender_limit = 0 }
+set_variable = { BEL_defensive_conservatism_army_core_defence_factor = 0 }
+set_variable = { BEL_defensive_conservatism_training_time_factor = 0 }
+set_variable = { BEL_defensive_conservatism_mobilization_speed = 0 }
 
 # Social Partners
 set_variable = { BEL_social_partners_industry_free_repair_factor = 0.1 }

@@ -124,19 +124,19 @@ if = {
 	}
 }
 
-# There were many Kurdish uprisings in Iraq, Iran, and Turkey in the 20th century, it's difficult to define a "ruling party". Democratic has been chosen since the Dersim Rebellion is the closest uprising to HoI's start date.
+# There were many Kurdish uprisings in Iraq, Iran, and Turkey in the 20th century, it's difficult to define a "ruling party". liberal_democracy has been chosen since the Dersim Rebellion is the closest uprising to HoI's start date.
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1935.2.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 40
-	communism = 25
-	fascism = 30
-	neutrality = 5
+	liberal_democracy = 40
+	communist = 25
+	corporatism = 30
+	conservatism = 5
 }
 
 # Qazi Muhammad was leader of the short-lived Marxist uprising in Iranian Kurdistan
@@ -169,7 +169,7 @@ create_country_leader = {
 	desc = "POLITICS_IHSAN_NURI_DESC"
 	picture = "GFX_portrait_kur_ihsan_nuri"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 	traits = {
 		experienced_insurgent
 	}

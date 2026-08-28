@@ -76,15 +76,15 @@ set_convoys = 5
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 40
-	fascism = 30
-	communism = 30
+	liberal_democracy = 40
+	corporatism = 30
+	communist = 30
 }
 
 create_country_leader = {
@@ -101,7 +101,7 @@ create_country_leader = {
 	name = "Amin al-Husseini"
 	desc = ""
 	picture = GFX_portrait_Amin_al_Husseini
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 	traits = {
 		#
 	}

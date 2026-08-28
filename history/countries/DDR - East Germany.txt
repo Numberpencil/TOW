@@ -170,16 +170,16 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = communist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	democratic = 30
-	fascism = 10
-	communism = 60
+	liberal_democracy = 30
+	corporatism = 10
+	communist = 60
 }
 
 add_ideas = {
@@ -190,7 +190,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Jake_Richter
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 	traits = {
 		political_dancer		
 	}

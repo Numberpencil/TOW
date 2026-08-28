@@ -93,22 +93,22 @@ IF = {
 	
 	set_variable = { BRA_weak_government_stability_factor = -0.15 }
 	set_variable = { BRA_weak_government_pp_factor = -0.2 }
-	set_variable = { BRA_weak_government_neutrality_factor = 0.02 }
+	set_variable = { BRA_weak_government_conservatism_factor = 0.02 }
 	set_variable = { BRA_weak_government_command_power_factor = -0.4}
 
 	set_variable = { BRA_coup_stability_factor = -0.05 }
-	set_variable = { BRA_coup_communism_factor = 0.05 }
-	set_variable = { BRA_coup_democratic_factor = 0 }
-	set_variable = { BRA_coup_fascism_factor = 0 }
-	set_variable = { BRA_coup_neutrality_factor = 0 }
+	set_variable = { BRA_coup_communist_factor = 0.05 }
+	set_variable = { BRA_coup_liberal_democracy_factor = 0 }
+	set_variable = { BRA_coup_corporatism_factor = 0 }
+	set_variable = { BRA_coup_conservatism_factor = 0 }
 
 	# Estado Novo Modifier
 	set_variable = { BRA_estado_novo_stability_factor = 0.1 }
-	set_variable = { BRA_estado_novo_fascism_factor = 0 }
-	set_variable = { BRA_estado_novo_communism_factor = 0 }
-	set_variable = { BRA_estado_novo_democratic_factor = 0 }
-	set_variable = { BRA_estado_novo_fascism_factor = 0 }
-	set_variable = { BRA_estado_novo_neutrality_factor = 0.2 }
+	set_variable = { BRA_estado_novo_corporatism_factor = 0 }
+	set_variable = { BRA_estado_novo_communist_factor = 0 }
+	set_variable = { BRA_estado_novo_liberal_democracy_factor = 0 }
+	set_variable = { BRA_estado_novo_corporatism_factor = 0 }
+	set_variable = { BRA_estado_novo_conservatism_factor = 0.2 }
 	set_variable = { BRA_estado_novo_production_speed_buildings_factor = 0 }
 	set_variable = { BRA_estado_novo_war_support_factor = 0 }
 	set_variable = { BRA_estado_novo_recruitable_population_factor = 0 }
@@ -123,10 +123,10 @@ IF = {
 
 	# Estado Moderno Modifier
 	set_variable = { BRA_estado_moderno_stability_factor = 0 }
-	set_variable = { BRA_estado_moderno_neutrality_factor = 0 }
-	set_variable = { BRA_estado_moderno_communism_factor = 0 }
-	set_variable = { BRA_estado_moderno_democratic_factor = 0 }
-	set_variable = { BRA_estado_moderno_fascism_factor = 0.2 }
+	set_variable = { BRA_estado_moderno_conservatism_factor = 0 }
+	set_variable = { BRA_estado_moderno_communist_factor = 0 }
+	set_variable = { BRA_estado_moderno_liberal_democracy_factor = 0 }
+	set_variable = { BRA_estado_moderno_corporatism_factor = 0.2 }
 	set_variable = { BRA_estado_moderno_production_speed_buildings_factor = 0 }
 	set_variable = { BRA_estado_moderno_war_support_factor = 0 }
 	set_variable = { BRA_estado_moderno_recruitable_population_factor = 0 }
@@ -144,27 +144,27 @@ IF = {
 	add_dynamic_modifier = { modifier = BRA_aftermath_of_the_coup }
 
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = liberal_democracy
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 
 	set_popularities = {
-		democratic = 50
-		neutrality = 25
-		fascism = 15
-		communism = 10
+		liberal_democracy = 50
+		conservatism = 25
+		corporatism = 15
+		communist = 10
 	}
 
 	set_party_name = {
-		ideology = neutrality
+		ideology = conservatism
 		name = BRA_military_party
 		long_name = BRA_military_party_long
 	}
 
 	set_party_name = {
-		ideology = democratic
+		ideology = liberal_democracy
 		name = BRA_provisional_government
 		long_name = BRA_provisional_government_long
 	}
@@ -234,16 +234,16 @@ IF = {
 		}
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = liberal_democracy
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 	set_popularities = {
-		democratic = 50
-		neutrality = 25
-		fascism = 15
-		communism = 10
+		liberal_democracy = 50
+		conservatism = 25
+		corporatism = 15
+		communist = 10
 	}
 }
 ###############################################################################
@@ -445,13 +445,13 @@ set_convoys = 40
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		neutrality = 100
+		conservatism = 100
 	}
 }
 

@@ -271,16 +271,16 @@ IF = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1934.7.1"
 	election_frequency = 72
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 18
-	fascism = 20
-	communism = 9
-	neutrality = 53
+	liberal_democracy = 18
+	corporatism = 20
+	communist = 9
+	conservatism = 53
 }
 
 ### VARIANTS ###

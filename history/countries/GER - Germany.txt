@@ -29,6 +29,6 @@ set_politics = {
 }
 
 set_popularities = {
-	fascism = 80
+	corporatism = 80
 	racial_cleanliness = 20
 }

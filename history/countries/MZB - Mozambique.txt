@@ -26,7 +26,7 @@ recruit_character = MZB_acgs
 recruit_character = MZB_nt
 recruit_character = MZB_communist_guy
 recruit_character = MZB_ar
-recruit_character = MZB_democratic_guy
+recruit_character = MZB_liberal_democracy_guy
 recruit_character = MZB_mt
 recruit_character = MZB_ncs
 recruit_character = MZB_awt
@@ -68,13 +68,13 @@ recruit_character = MZB_awt
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	conservatism = 100
 }
 
 create_country_leader = {

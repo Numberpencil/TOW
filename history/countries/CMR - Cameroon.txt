@@ -8,7 +8,7 @@ set_technology = {
 set_convoys = 20
 
 recruit_character = CMR_aa2
-recruit_character = CMR_democratic_guy
+recruit_character = CMR_liberal_democracy_guy
 recruit_character = CMR_acgs
 recruit_character = CMR_ncm
 recruit_character = CMR_nt
@@ -78,15 +78,15 @@ recruit_character = CMR_acr
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
+	liberal_democracy = 25
+	corporatism = 20
+	communist = 5
+	conservatism = 50
 }

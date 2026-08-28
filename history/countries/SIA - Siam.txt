@@ -183,13 +183,13 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = corporatism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		fascism = 100
+		corporatism = 100
 	}
 
 	recruit_character = SIA_plaek_phibunsongkhram

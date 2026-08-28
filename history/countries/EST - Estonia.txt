@@ -25,7 +25,7 @@ add_ideas = {
 IF = {
 	limit = { has_dlc = "No Step Back" }
 	add_ideas = {
-		democratic_opposition
+		liberal_democracy_opposition
 		EST_vaps_idea_1
 	}
 }
@@ -108,7 +108,7 @@ set_convoys = 5
 	set_country_flag = fought_vaps_flag #Estonia shouldn't have to fight the Vaps in 39
 
 	remove_ideas = {
-		democratic_opposition
+		liberal_democracy_opposition
 		EST_vaps_idea_1
 	}
 
@@ -215,21 +215,21 @@ set_convoys = 5
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 20
-	fascism = 15
-	communism = 5
-	neutrality = 60
+	liberal_democracy = 20
+	corporatism = 15
+	communist = 5
+	conservatism = 60
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1938.2.25"
 		election_frequency = 48
 		elections_allowed = no

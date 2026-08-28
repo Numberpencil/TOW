@@ -13,7 +13,7 @@ recruit_character = PNG_stc
 recruit_character = PNG_aa2
 recruit_character = PNG_ncs
 recruit_character = PNG_nt
-recruit_character = PNG_democratic_guy
+recruit_character = PNG_liberal_democracy_guy
 recruit_character = PNG_fascist_guy
 recruit_character = PNG_ai2
 recruit_character = PNG_acas
@@ -67,16 +67,16 @@ recruit_character = PNG_aco2
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 75
-	fascism = 1
-	communism = 1
-	neutrality = 23
+	liberal_democracy = 75
+	corporatism = 1
+	communist = 1
+	conservatism = 23
 }
 
 #create_country_leader = {

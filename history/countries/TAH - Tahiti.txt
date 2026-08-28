@@ -24,7 +24,7 @@ recruit_character = TAH_ncs
 recruit_character = TAH_nt
 recruit_character = TAH_acas
 recruit_character = TAH_acd2
-recruit_character = TAH_democratic_guy
+recruit_character = TAH_liberal_democracy_guy
 recruit_character = TAH_mt
 recruit_character = TAH_ai2
 recruit_character = TAH_coi
@@ -67,16 +67,16 @@ recruit_character = TAH_acr
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 38
-	fascism = 6
-	communism = 6
-	neutrality = 50
+	liberal_democracy = 38
+	corporatism = 6
+	communist = 6
+	conservatism = 50
 }
 
 create_country_leader = {

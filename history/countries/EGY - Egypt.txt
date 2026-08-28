@@ -102,7 +102,7 @@ create_country_leader = {
 	name = "Ahmed Husayn"
 	desc = ""
 	picture = GFX_portrait_Ahmed_Husayn
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 	traits = {
 		#
 	}

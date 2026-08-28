@@ -11,7 +11,7 @@ set_convoys = 20
 
 recruit_character = MLD_ncm
 recruit_character = MLD_acd2
-recruit_character = MLD_democratic_guy
+recruit_character = MLD_liberal_democracy_guy
 recruit_character = MLD_fascist_guy
 recruit_character = MLD_coi
 recruit_character = MLD_ar
@@ -67,16 +67,16 @@ recruit_character = MLD_ncs
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 75
-	fascism = 1
-	communism = 1
-	neutrality = 23
+	liberal_democracy = 75
+	corporatism = 1
+	communist = 1
+	conservatism = 23
 }
 
 #create_country_leader = {
@@ -92,15 +92,15 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}	
 	set_popularities = {
-		democratic = 38
-		fascism = 6
-		communism = 6
-		neutrality = 50
+		liberal_democracy = 38
+		corporatism = 6
+		communist = 6
+		conservatism = 50
 	}
 }

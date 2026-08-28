@@ -28,7 +28,7 @@ recruit_character = ANG_awt
 recruit_character = ANG_pot
 recruit_character = ANG_nccr
 recruit_character = ANG_aco2
-recruit_character = ANG_democratic_guy
+recruit_character = ANG_liberal_democracy_guy
 recruit_character = ANG_ncs
 
 
@@ -69,13 +69,13 @@ recruit_character = ANG_ncs
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	conservatism = 100
 }
 
 create_country_leader = {
@@ -93,13 +93,13 @@ create_country_leader = {
 #Now a colony of Italy  However, if independent it would have
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		neutrality = 100
+		conservatism = 100
 	}
 }
 

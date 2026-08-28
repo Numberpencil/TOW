@@ -198,7 +198,7 @@ if = {
 		complete_national_focus = NOR_hurtigruten
 		complete_national_focus = NOR_norwegian_school_of_economics
 		complete_national_focus = NOR_weathering_the_storm_to_come
-		complete_national_focus = NOR_the_neutrality_guard
+		complete_national_focus = NOR_the_conservatism_guard
 		complete_national_focus = NOR_rearm_for_defense
 		complete_national_focus = NOR_patrol_our_coast
 		complete_national_focus = NOR_fortify_norway
@@ -298,29 +298,29 @@ if = {
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 96
-	fascism = 2
-	communism = 2
+	liberal_democracy = 96
+	corporatism = 2
+	communist = 2
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = liberal_democracy
 		last_election = "1936.10.19"
 		election_frequency = 36
 		elections_allowed = yes
 	}
 	set_popularities = {
-		democratic = 84
-		fascism = 2
-		communism = 2
-		neutrality = 12
+		liberal_democracy = 84
+		corporatism = 2
+		communist = 2
+		conservatism = 12
 	}
 }
 

@@ -22,10 +22,10 @@
  GER_DEF: "德国"
  GER_ADJ: "德国"
  
- RDV_corporatism: "法兰西国维希政府"
- RDV_corporatism_DEF: "法兰西国维希政府"
- RDV_corporatism_ADJ: "法兰西国维希政府"
- 
+ RDV: "法兰西国维希政府"
+ RDV_DEF: "法兰西国维希政府"
+ RDV_ADJ: "法兰西国维希政府"
+
  BEL_corporatism: "比利时总督辖区"
  BEL_corporatism_DEF: "比利时总督辖区"
  BEL_corporatism_ADJ: "比利时总督辖区"
@@ -38,13 +38,13 @@
  SDI_authoritarianism_DEF: "第十九步兵团驻地"
  SDI_authoritarianism_ADJ: "第十九步兵团驻地"
 
- MVC_corporatism: "康沃尔军管区"
- MVC_corporatism_DEF: "康沃尔军管区"
- MVC_corporatism_ADJ: "康沃尔军管区"
+ MVC: "康沃尔军管区"
+ MVC_DEF: "康沃尔军管区"
+ MVC_ADJ: "康沃尔军管区"
 
- SBM_corporatism: "党卫军不列颠军区"
- SBM_corporatism_DEF: "党卫军不列颠军区"
- SBM_corporatism_ADJ: "党卫军不列颠军区"
+ SBM: "党卫军不列颠军区"
+ SBM_DEF: "党卫军不列颠军区"
+ SBM_ADJ: "党卫军不列颠军区"
 
  DEN_corporatism: "丹麦总督辖区"
  DEN_corporatism_DEF: "丹麦总督辖区"
@@ -53,13 +53,13 @@
  DEN_GER_corporatism_autonomy_puppet_DEF: "丹麦总督辖区"
  DEN_GER_corporatism_autonomy_puppet_ADJ: "丹麦总督辖区"
 
- RSA_corporatism: "西南非洲专员辖区"
- RSA_corporatism_DEF: "西南非洲专员辖区"
- RSA_corporatism_ADJ: "西南非洲专员辖区"
+ RSA: "西南非洲专员辖区"
+ RSA_DEF: "西南非洲专员辖区"
+ RSA_ADJ: "西南非洲专员辖区"
 
- ROS_corporatism: "东非专员辖区"
- ROS_corporatism_DEF: "东非专员辖区"
- ROS_corporatism_ADJ: "东非专员辖区"
+ ROS: "东非专员辖区"
+ ROS_DEF: "东非专员辖区"
+ ROS_ADJ: "东非专员辖区"
 
  ORD_racial_cleanliness: "党卫军骑士团政府"
  ORD_racial_cleanliness_DEF: "党卫军骑士团政府"
@@ -72,14 +72,19 @@
  RKA_GER_corporatism_autonomy_puppet_DEF: "利奥波德维尔专员辖区"
  RKA_GER_corporatism_autonomy_puppet_ADJ: "利奥波德维尔专员辖区"
 
- PRC: "中华苏维埃共和国"
- PRC_communist: "中华苏维埃共和国"
- PRC_communist_DEF: "中华苏维埃共和国"
- PRC_communist_ADJ: "中华苏维埃共和国"
-
  CHI: "重庆国民政府"
  CHI_neutrality_DEF: "重庆国民政府"
  CHI_neutrality_ADJ: "重庆国民政府"
+
+ PRC_COM: "中华苏维埃共和国"
+ PRC_COM_DEF: "中华苏维埃共和国"
+ PRC_COM_ADJ: "中华苏维埃共和国"
+ PRC: "中华苏维埃共和国"
+ PRC_DEF: "中华苏维埃共和国"
+ PRC_ADJ: "中华苏维埃共和国"
+ PRC_communist: "中华苏维埃共和国"
+ PRC_communist_DEF: "中华苏维埃共和国"
+ PRC_communist_ADJ: "中华苏维埃共和国"
 
  SCB_communist: "中共中央南方局"
  SCB_communist_DEF: "中共中央南方局"

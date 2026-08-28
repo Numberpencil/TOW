@@ -20,7 +20,7 @@ recruit_character = MLT_ai2
 recruit_character = MLT_ncs
 recruit_character = MLT_ncm
 recruit_character = MLT_acd2
-recruit_character = MLT_democratic_guy
+recruit_character = MLT_liberal_democracy_guy
 recruit_character = MLT_fascist_guy
 recruit_character = MLT_coi
 recruit_character = MLT_ar
@@ -67,14 +67,14 @@ recruit_character = MLT_nccr
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 50
-	fascism = 8
-	communism = 15
-	neutrality = 27
+	liberal_democracy = 50
+	corporatism = 8
+	communist = 15
+	conservatism = 27
 }

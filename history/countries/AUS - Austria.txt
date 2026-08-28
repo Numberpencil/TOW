@@ -52,7 +52,7 @@ IF = {
 
 	#setting up all the dynamic modifiers
 
-	AUS_set_austrofascism_defaults = yes
+	AUS_set_austrocorporatism_defaults = yes
 	AUS_set_monarchy_restored_defauts = yes
 	AUS_set_farr_defaults = yes
 	AUS_set_doth_defalts = yes
@@ -80,12 +80,12 @@ IF = {
 	}
 
 	add_dynamic_modifier= {
-		modifier = AUS_austrofascism 
+		modifier = AUS_austrocorporatism 
 	}	
 
 	add_opinion_modifier = {
 		target = GER
-		modifier = AUS_austrofascism_opm
+		modifier = AUS_austrocorporatism_opm
 	}	
 
 	# rules are set here
@@ -281,17 +281,17 @@ IF = {
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	neutrality = 48
-	fascism = 50
-	democratic = 1
-	communism = 1
+	conservatism = 48
+	corporatism = 50
+	liberal_democracy = 1
+	communist = 1
 }
 
 set_stability = 0.50

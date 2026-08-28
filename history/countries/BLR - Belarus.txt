@@ -89,10 +89,10 @@ if = {
 }
 
 set_popularities = {
-	democratic = 15
-	neutrality = 20
-	communism = 60
-	fascism = 5
+	liberal_democracy = 15
+	conservatism = 20
+	communist = 60
+	corporatism = 5
 }
 
 recruit_character = BLR_adam_stankievic

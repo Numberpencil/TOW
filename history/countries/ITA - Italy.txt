@@ -13,15 +13,16 @@ set_technology = {
 recruit_character = ITA_Ciano
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = corporatism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 90
-	democratic = 0
-	communism = 0
-	neutrality = 10
+	corporatism = 90
+	liberal_democracy = 0
+	communist = 0
+	conservatism = 10
 }
+puppet = ALB

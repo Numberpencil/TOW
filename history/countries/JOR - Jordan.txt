@@ -98,7 +98,7 @@ create_country_leader = {
 	name = "Saeed Ahmadi"
 	desc = ""
 	picture = GFX_portrait_Saeed_Ahmadi
-	ideology = fascism_ideology
+	ideology = corporatism_ideology
 	traits = {
 		#
 	}

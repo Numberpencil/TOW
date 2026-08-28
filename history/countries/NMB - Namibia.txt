@@ -14,7 +14,7 @@ recruit_character = NMB_ncs
 recruit_character = NMB_nt
 recruit_character = NMB_acas
 recruit_character = NMB_acd2
-recruit_character = NMB_democratic_guy
+recruit_character = NMB_liberal_democracy_guy
 recruit_character = NMB_mt
 recruit_character = NMB_ai2
 recruit_character = NMB_coi
@@ -76,14 +76,14 @@ recruit_character = NMB_ar
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 50
-	fascism = 20
-	communism = 5
-	neutrality = 25
+	liberal_democracy = 50
+	corporatism = 20
+	communist = 5
+	conservatism = 25
 }

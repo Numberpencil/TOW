@@ -1,4 +1,24 @@
 spriteTypes = {
+	spriteType = {
+		name = "GFX_unit_list_header_tow"
+		texturefile = "gfx/interface/unitcontrol/unit_list_header_tow.dds"
+	}
+	textSpriteType = {
+		name = "GFX_button_colse_31x31"
+		texturefile = "gfx//interface//button_colse_31x31.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	textSpriteType = {
+		name = "GFX_button_172x34"
+		texturefile = "gfx//interface//button_172x34.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_TOW_focus_bg"
+		texturefile = "gfx/interface/GFX_TOW_focus_b.dds"
+	}
 
 	spriteType = {
 		name = "GFX_event_news_pic_overlay"

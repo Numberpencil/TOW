@@ -142,17 +142,17 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	democratic = 15
-	fascism = 20
-	communism = 25
-	neutrality = 40
+	liberal_democracy = 15
+	corporatism = 20
+	communist = 25
+	conservatism = 40
 }
 
 add_ideas = {

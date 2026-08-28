@@ -112,7 +112,7 @@ set_convoys = 20
 
 recruit_character = OCC_ncm
 recruit_character = OCC_acd2
-recruit_character = OCC_democratic_guy
+recruit_character = OCC_liberal_democracy_guy
 recruit_character = OCC_fascist_guy
 recruit_character = OCC_coi
 recruit_character = OCC_ar
@@ -227,14 +227,14 @@ recruit_character = OCC_ncs
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 50
-	fascism = 15
-	communism = 15
-	neutrality = 20
+	liberal_democracy = 50
+	corporatism = 15
+	communist = 15
+	conservatism = 20
 }

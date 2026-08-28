@@ -53,7 +53,7 @@ IF = {
 		has_dlc = "Gotterdammerung"
 	}
 	set_party_name = {
-	    ideology = fascism
+	    ideology = corporatism
 	    long_name = HUN_national_socialist_party_long
 	    name = HUN_national_socialist_party
 	}

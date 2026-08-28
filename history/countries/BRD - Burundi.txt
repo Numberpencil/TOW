@@ -25,7 +25,7 @@ recruit_character = BRD_awt
 recruit_character = BRD_pot
 recruit_character = BRD_nccr
 recruit_character = BRD_aco2
-recruit_character = BRD_democratic_guy
+recruit_character = BRD_liberal_democracy_guy
 recruit_character = BRD_ncs
 recruit_character = BRD_acgs
 recruit_character = BRD_ncm
@@ -86,15 +86,15 @@ recruit_character = BRD_stc
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 25
-	fascism = 15
-	communism = 5
-	neutrality = 55
+	liberal_democracy = 25
+	corporatism = 15
+	communist = 5
+	conservatism = 55
 }

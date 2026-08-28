@@ -10,7 +10,7 @@ set_convoys = 10
 recruit_character = GNA_nccr
 recruit_character = GNA_aco2
 recruit_character = GNA_ai2
-recruit_character = GNA_democratic_guy
+recruit_character = GNA_liberal_democracy_guy
 recruit_character = GNA_fascist_guy
 recruit_character = GNA_ncm
 recruit_character = GNA_communist_guy
@@ -76,14 +76,14 @@ recruit_character = GNA_awt
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
+	liberal_democracy = 25
+	corporatism = 20
+	communist = 5
+	conservatism = 50
 }

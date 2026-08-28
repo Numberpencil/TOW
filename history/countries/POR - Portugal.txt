@@ -83,14 +83,14 @@ if = {
 	GER = {
 		add_opinion_modifier = {
 			target = POR
-			modifier = fascism_leanings_good
+			modifier = corporatism_leanings_good
 		}
 	}
 
 	ITA = {
 		add_opinion_modifier = {
 			target = POR
-			modifier = fascism_leanings_good
+			modifier = corporatism_leanings_good
 		}
 	}
 	
@@ -204,27 +204,27 @@ if = {
 
 set_convoys = 50
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 10
-	communism = 10
-	neutrality = 60
-	democratic = 20
+	corporatism = 10
+	communist = 10
+	conservatism = 60
+	liberal_democracy = 20
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1938.10.30"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		neutrality = 100
+		conservatism = 100
 	}
 }
 

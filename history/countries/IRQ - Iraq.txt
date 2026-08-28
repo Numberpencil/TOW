@@ -130,14 +130,14 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = conservatism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		fascism = 30
-		neutrality = 70
+		corporatism = 30
+		conservatism = 70
 	}
 
 	recruit_character = IRQ_faisal_ii
